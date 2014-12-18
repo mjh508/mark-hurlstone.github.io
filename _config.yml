@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Mark Hurlstone BSc MSc PhD
 tagline:             'Experimental Psychologist'
-description:         'Mark Hurlstone<p>Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
+description:         'Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
 url:                 http://mark-hurlstone.github
 baseurl:             /
 paginate:            5
