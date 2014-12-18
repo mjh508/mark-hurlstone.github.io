@@ -5,6 +5,8 @@ title: Presentations
 
 **Hurlstone, M. J.,** Lewandowsky, S., Newell, B. R., & Sewell, B. (Dec, 2013). [Curbing emissions: Framing and normative messages influence CO2 abatement policy preferences.](/HLNS.13.NSW.pdf) University of New South Wales, Sydney NSW, Australia.
 
+**Hurlstone, M. J.** (Feb, 2013). [Modelling immediate serial spatial recall in a macaque (Macaca mulatta)](/H.13.UWA.pdf) University of Western Australia, Australia.
+
 **Hurlstone, M. J.,** & Lawrence, C. (July, 2012). [The impact of normative feedback on pro-environmental intentions and behaviour.](/HLaw.12.NCCARF.pdf) National Climate Change Adaptation Research Facility Conference, Melbourne, Australia.
 
 **Hurlstone, M. J.,** & Lewandowsky, S. (July, 2012). [Climate change coping and the effects of social norms and message framing on those with extreme worldviews.](/HLew.12.NCCARF.pdf) National Climate Change Adaptation Research Facility Conference, Melbourne, Australia.
