@@ -3,8 +3,6 @@ layout: page
 title: Presentations
 ---
 
-** Presentations
-
 Hurlstone, M. J., Lewandowsky, S., Newell, B. R., & Sewell, B. (Dec, 2013). Curbing emissions: Framing and normative messages influence CO2 abatement policy preferences. University of New South Wales, Sydney NSW, Australia.
 
 Hurlstone, M. J., & Lawrence, C. (July, 2012). The impact of normative feedback on pro-environmental intentions and behaviour. National Climate Change Adaptation Research Facility Conference, Melbourne, Australia.
