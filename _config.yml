@@ -1,7 +1,6 @@
 # Dependencies
 markdown:            redcarpet
 highlighter:         pygments
-extensions: [smart]
 
 # Permalinks
 #
