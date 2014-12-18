@@ -34,7 +34,7 @@ Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). [Sequential depende
 
 Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). [Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism.](/HHMVJ.13.JEPHPP.pdf) *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
 
-Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). [Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction.](/HVHMMJ.11.ICNPHP.pdf) In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
+Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). [Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction.](/HVHMMJ.11.ICBEN.pdf) In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
 
 ## Theses
 
