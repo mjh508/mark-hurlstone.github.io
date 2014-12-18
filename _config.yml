@@ -9,17 +9,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Mark Hurlstone BSc MSc PhD
-tagline:             'Experimental Psychologist'
-description:         'Mark Hurlstone<p>Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
-url:                 http://mark-hurlstone.github.io
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             /
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Hurlstone
-  email:             mark.hurlstone@uwa.edu.au
-  url:               http://mark-hurlstone.github.io
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
