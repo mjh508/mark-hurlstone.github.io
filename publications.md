@@ -3,28 +3,43 @@ layout: page
 title: Publications
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Peer Reviewed Manuscripts - in preparation
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**Hurlstone, M. J.,** & Hitch, G. J. (2014, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
 
-There are currently two themes built on Poole:
+**Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2014, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+**Hurlstone, M. J.,** Ecker, U. K. H., & Lewandowsky, S. (2014, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**Hurlstone, M. J.** (2014, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
 
-## Setup
+## Peer Reviewed Manuscripts - submitted
 
-Some fun facts about the setup of this project include:
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2014, submitted). Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism. 
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+**Hurlstone, M. J.,** & Hitch, G. J. (2014, submitted). Functional similarities and differences between the
+coding of positional information in verbal and spatial short-term memory.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## Peer Reviewed Manuscripts - published
 
-Thanks for reading!
+**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition.*
+
+**Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). [The role of framing and normative messages in building support for climate policies.](/HLNS.14.PLoS.ONE.pdf) *PLoS ONE.*
+
+**Hurlstone, M. J.,** Hitch, G. J., & Baddeley, A. D. (2014). [Memory for serial order across domains: An overview of the literature and directions for future research.](/HHB.14.PB.pdf) *Psychological Bulletin, 140,* 339-373.
+
+Unsworth, K. L., Russell, S. V., Lewandowsky, S., Lawrence, C., Fielding, K., Heath, J., Evans, A., **Hurlstone, M. J.,** & McNeill, I. (2013). [Individual adaptation to climate change and psychological drivers: What about me? Factors affecting individual adaptive coping capacity across different population.](/URLLFHEHM.13.NCCARF.pdf) *National Climate Change Adaptation Research Facility.*
+
+Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). [Sequential dependencies in recall of sequences: Filling in the blanks.](/FHL.13.MC.pdf) *Memory & Cognition, 41,* 938-952.
+
+Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). [Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism.](/HHMVJ.13.JEPHPP.pdf) *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
+
+Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). [Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction.](/HVHMMJ.11.ICNPHP.pdf) In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
+
+## Theses
+
+**Hurlstone, M. J.** (2010). *The problem of serial order in visuospatial short-term memory.* Unpublished PhD thesis, University of York, UK.
+
+**Hurlstone, M. J.** (2006). *Top-down processing and temporal grouping in immediate serial recall.* Unpublished MSc thesis, University of York, UK.
+
+**Hurlstone, M. J.** (2004). *The modularity of ordering processes in verbal and spatial short-term memory.* Unpublished BSc thesis, University of Leicester, UK.
