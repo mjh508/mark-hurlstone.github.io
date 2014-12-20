@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               <font size="30"> Mark Hurlstone </font>
-tagline:             <font size="30"> 'Experimental Psychologist' </font>
+tagline:             <font size="30"> Experimental Psychologist </font>
 description:         'Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
 url:                 http://mark-hurlstone.github
 baseurl:             /
