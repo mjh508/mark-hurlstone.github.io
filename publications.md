@@ -3,9 +3,15 @@ layout: page
 title: Publications
 ---
 
+<p class="message">
+*Copyright Notice*: Some of the documents listed below are available for downloading. These have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+</p>
+
 ## Peer Reviewed Manuscripts - in preparation
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2014, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
+
+<ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which presents additional applications of the models to the  grouped condition of Experiment 3.</ul></p>
 
 **Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2014, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
