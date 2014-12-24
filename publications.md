@@ -38,7 +38,7 @@ coding of positional information in verbal and spatial short-term memory.
 
 Unsworth, K. L., Russell, S. V., Lewandowsky, S., Lawrence, C., Fielding, K., Heath, J., Evans, A., **Hurlstone, M. J.,** & McNeill, I. (2013). [Individual adaptation to climate change and psychological drivers: What about me? Factors affecting individual adaptive coping capacity across different population.](/URLLFHEHM.13.NCCARF.pdf) *National Climate Change Adaptation Research Facility.*
 
-Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). [Sequential dependencies in recall of sequences: Filling in the blanks.](/FHL.13.MC.pdf) *Memory & Cognition, 41,* 938-952. <a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">[Data]</a>
+Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). [Sequential dependencies in recall of sequences: Filling in the blanks.](/FHL.13.MC.pdf) *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">Data</a>]
 
 Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). [Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism.](/HHMVJ.13.JEPHPP.pdf) *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
 
