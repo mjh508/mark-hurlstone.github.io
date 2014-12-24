@@ -11,8 +11,6 @@ title: Publications
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2014, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
 
-<ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which presents additional applications of the models to the  grouped condition of Experiment 3.</ul></p>
-
 **Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2014, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
 **Hurlstone, M. J.,** Ecker, U. K. H., & Lewandowsky, S. (2014, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
@@ -29,6 +27,8 @@ coding of positional information in verbal and spatial short-term memory.
 ## Peer Reviewed Manuscripts - published
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition.*
+
+<ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
 
 **Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). [The role of framing and normative messages in building support for climate policies.](/HLNS.14.PLoS.ONE.pdf) *PLoS ONE.*
 
