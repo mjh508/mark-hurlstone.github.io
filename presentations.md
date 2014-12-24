@@ -3,6 +3,10 @@ layout: page
 title: Presentations
 ---
 
+<p class="message">
+Some recent presentations--constructed with <a href="http://www.latex-project.org">LaTeX</a> using the excellent <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>--from various conferences and workshops are available for download below. 
+<p>
+
 **Hurlstone, M. J.,** Lewandowsky, S., Newell, B. R., & Sewell, B. (Dec, 2013). [Curbing emissions: Framing and normative messages influence CO2 abatement policy preferences.](/HLNS.13.NSW.pdf) University of New South Wales, Sydney NSW, Australia.
 
 **Hurlstone, M. J.** (Feb, 2013). [Modelling immediate serial spatial recall in a macaque (Macaca mulatta)](/H.13.UWA.pdf) University of Western Australia, Australia.
