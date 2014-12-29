@@ -10,7 +10,7 @@ title: Home
 <p>35 Stirling Hwy</p>    
 <p>Crawley WA 6009</p>
 <p>Phone: +61 (0)8 6488 3249</p>
-<p>Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'</p>
+<p>Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a></p>
 
 ## **Biography**      
 
