@@ -4,8 +4,10 @@ title: Presentations
 ---
 
 <p class="message">
-Some recent presentations--constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>--from various conferences and workshops are available for download below. 
+Some recent presentations from various conferences and workshops are available for download below. 
 <p>
+
+<!-- --constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>-- -->
 
 **Hurlstone, M. J.,** Lewandowsky, S., Newell, B. R., & Sewell, B. (Dec, 2013). [Curbing emissions: Framing and normative messages influence CO2 abatement policy preferences.](/HLNS.13.NSW.pdf) University of New South Wales, Sydney NSW, Australia.
 
