@@ -32,7 +32,7 @@ coding of positional information in verbal and spatial short-term memory.
 
 <!-- <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p> -->
 
-**Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). [The role of framing and normative messages in building support for climate policies.](/HLNS.14.PLoS.ONE.pdf) *PLoS ONE.* [[Data](/PLoS.ONE.14.Data.xlsx)]
+**Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). [The role of framing and normative messages in building support for climate policies.](/HLNS.15.PLoS.ONE.pdf) *PLoS ONE.* [[Data](/PLoS.ONE.14.Data.xlsx)]
 
 **Hurlstone, M. J.,** Hitch, G. J., & Baddeley, A. D. (2014). [Memory for serial order across domains: An overview of the literature and directions for future research.](/HHB.14.PB.pdf) *Psychological Bulletin, 140,* 339-373.
 
