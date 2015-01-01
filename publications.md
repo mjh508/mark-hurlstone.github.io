@@ -28,7 +28,7 @@ coding of positional information in verbal and spatial short-term memory.
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition.*
 
-<ul> [Supplementary Material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
+<ul> [Supplementary material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
 
 <!-- <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p> -->
 
