@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## **Contact details**
+## Contact details
 
 <p>School of Psychology</p>
 <p>University of Western Australia</p>
@@ -12,11 +12,11 @@ title: Home
 <p>Phone: +61 (0)8 6488 3249</p>
 <p>Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a></p>
 
-## **Biography**      
+## Biography      
 
 <p> I completed my undergraduate degree in Psychology at the University of Leicester before completing a Master's degree in Reading, Language, and Cognition followed by a PhD on short-term memory (supervisors: Graham Hitch and Alan Baddeley), both at the University of York. After a brief post-doctoral stint at Cardiff University working on auditory distraction (with Rob Hughes and Dylan Jones), I moved to the University of Western Australia, where I am currently an Assistant Professor.</p>
 
-## **Research interests**
+## Research interests
 
 *Auditory distraction:* testing a duplex mechanism account of auditory distraction and attentional selectivity in which some forms of distraction are resistible and others are ineluctable.
 
