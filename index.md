@@ -5,12 +5,19 @@ title: Home
 
 ## Contact details
 
-<p>School of Psychology</p>
+School of Psychology
+University of Western Australia
+35 Stirling Hwy  
+Crawley WA 6009
+Phone: +61 (0)8 6488 3249
+Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>
+
+<!--<p>School of Psychology</p>
 <p>University of Western Australia</p>
 <p>35 Stirling Hwy</p>    
 <p>Crawley WA 6009</p>
 <p>Phone: +61 (0)8 6488 3249</p>
-<p>Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a></p>
+<p>Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a></p> -->
 
 ## Biography      
 
