@@ -15,6 +15,7 @@ description:         'Assistant Professor<p>University of Western Australia<p><a
 url:                 http://mark-hurlstone.github
 baseurl:             /
 paginate:            5
+banner:              banner.jpg
 
 # About/contact
 author:
