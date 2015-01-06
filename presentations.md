@@ -26,3 +26,4 @@ Some recent presentations from various conferences and workshops are available f
 **Hurlstone, M. J.,** Hitch, G. J., & Baddeley, A. D. (Jan, 2009). [How is the serial order of a visuospatial sequence coded? Insights from transposition latencies.](/HHB.09a.EPS.pdf) Paper presented at the Experimental Psychology Society, London, U.K.
 
 Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (July, 2008). [An oscillator model account of effects of the timing of items in short-term memory.](/HHH.08.ICP.pdf) Paper presented at the XXIXth International Congress of Psychology, Berlin, Germany.
+
