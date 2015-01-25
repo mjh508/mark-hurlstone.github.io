@@ -9,13 +9,13 @@ Copyright Notice: Some of the documents listed below are available for downloadi
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2014, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
+**Hurlstone, M. J.,** & Hitch, G. J. (2015, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
 
-**Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2014, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+**Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2015, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
-**Hurlstone, M. J.,** Ecker, U. K. H., & Lewandowsky, S. (2014, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
+**Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2015, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
-**Hurlstone, M. J.** (2014, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
+**Hurlstone, M. J.** (2015, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
 
 ## Peer Reviewed Manuscripts - submitted
 
