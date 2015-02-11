@@ -44,6 +44,10 @@ Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013
 
 Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). [Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction.](/HVHMMJ.11.ICBEN.pdf) In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
 
+## Online Pieces
+
+**Hurlstone, M. J.,** & Lewandowsky, S. (2015). <a href="http://www.shapingtomorrowsworld.org/hurlstonePLOS.html">How to build support for climate policies.</a> *Shaping Tommorow's World.*
+
 ## Theses
 
 **Hurlstone, M. J.** (2010). *The problem of serial order in visuospatial short-term memory.* Unpublished PhD thesis, University of York, UK.
