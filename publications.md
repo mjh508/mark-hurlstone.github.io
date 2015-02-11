@@ -46,7 +46,7 @@ Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D.
 
 ## Online Pieces
 
-**Hurlstone, M. J.,** & Lewandowsky, S. (2015). <a href="http://www.shapingtomorrowsworld.org/hurlstonePLOS.html">How to build support for climate policies.</a> *Shaping Tommorow's World.*
+**Hurlstone, M. J.,** & Lewandowsky, S. (2015). <a href="http://www.shapingtomorrowsworld.org/hurlstonePLOS.html">How to build support for climate policies?</a> *Shaping Tommorow's World.*
 
 ## Theses
 
