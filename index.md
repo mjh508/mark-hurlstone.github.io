@@ -3,6 +3,9 @@ layout: default
 title: Home
 ---
 
+
+<img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone">
+
 ## Contact details
 
 <p>School of Psychology</p>
