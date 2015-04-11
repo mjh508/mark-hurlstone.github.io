@@ -4,7 +4,7 @@ title: Home
 ---
 
 
-<img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone">
+<!-- <img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone"> -->
 
 ## Contact details
 
