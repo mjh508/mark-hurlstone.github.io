@@ -9,6 +9,8 @@ Some recent presentations from various conferences and workshops are available f
 
 <!-- --constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>-- -->
 
+**Hurlstone, M. J.** (July, 2015). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/H.15.WSEN.pdf) WSEN, Murdoch University WA, Australia.
+
 **Hurlstone, M. J.,** Lewandowsky, S., Newell, B. R., & Sewell, B. (Dec, 2013). [Curbing emissions: Framing and normative messages influence CO2 abatement policy preferences.](/HLNS.13.NSW.pdf) University of New South Wales, Sydney NSW, Australia.
 
 **Hurlstone, M. J.** (Feb, 2013). [Modelling immediate serial spatial recall in a macaque (Macaca mulatta).](/H.13.UWA.pdf) University of Western Australia, Australia.
