@@ -9,7 +9,7 @@ Copyright Notice: Some of the documents listed below are available for downloadi
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, in preparation). Cooperation studies of catastrophe avoidance: Implications for climate negotiations.
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
 
@@ -21,9 +21,11 @@ Copyright Notice: Some of the documents listed below are available for downloadi
 
 ## Peer Reviewed Manuscripts - submitted
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2014, submitted). Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism. 
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWLW.15.Sub.pdf)
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2014, submitted). Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HH.15.Sub.pdf) 
+
+**Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HHH.15.Sub.pdf)
 
 ## Peer Reviewed Manuscripts - published
 
