@@ -21,6 +21,8 @@ Copyright Notice: Some of the documents listed below are available for downloadi
 
 ## Peer Reviewed Manuscripts - submitted
 
+Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2015, submitted). [Going with the Grain of Human Cognition: Applying insights from psychology to build support for vaccination.](/RHL.15.Sub.pdf)
+
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWLW.15.Sub.pdf)
 
 Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HH.15.Sub.pdf) 
