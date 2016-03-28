@@ -4,7 +4,7 @@ title: Presentations
 ---
 
 <p class="message">
-Some recent presentations from various conferences and workshops are available for download below ~~~. 
+Some recent presentations from various conferences and workshops are available for download below. 
 <p>
 
 <!-- --constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>-- -->
