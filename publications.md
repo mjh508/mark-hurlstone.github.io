@@ -4,34 +4,34 @@ title: Publications
 ---
 
 <p class="message">
-Copyright Notice: Some of the documents listed below are available for downloading. These have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+Please see copyright notice at bottom of page.
 </p>
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2016, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2015, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
+**Hurlstone, M. J.,** & Hitch, G. J. (2016, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
 
-**Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2015, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+**Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2016, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
-**Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2015, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
+**Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2016, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
-**Hurlstone, M. J.** (2015, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
+**Hurlstone, M. J.** (2016, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
+
+**Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2015, submitted). [Going with the Grain of Human Cognition: Applying insights from psychology to build support for vaccination.](/RHL.15.Sub.pdf)
+Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). Going with the Grain of Human Cognition: Applying insights from psychology to build support for vaccination.
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWL.15.Sub.pdf)
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). Cooperation studies of catastrophe avoidance: Implications for climate negotiations.
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HH.15.Sub.pdf) 
-
-**Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HHH.15.Sub.pdf)
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition.*
+**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324.
 
 <ul> [Supplementary material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
 
@@ -60,4 +60,8 @@ Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D.
 **Hurlstone, M. J.** (2006). *Top-down processing and temporal grouping in immediate serial recall.* Unpublished MSc thesis, University of York, UK.
 
 **Hurlstone, M. J.** (2004). *The modularity of ordering processes in verbal and spatial short-term memory.* Unpublished BSc thesis, University of Leicester, UK.
+
+<p class="message">
+Copyright Notice: Some of the documents listed below are available for downloading. These have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+</p>
 

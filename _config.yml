@@ -6,14 +6,14 @@ highlighter:         pygments
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Mark Hurlstone
-tagline:             'BSc MSc PhD'
+tagline:             
 description:         'Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
 url:                 http://mark-hurlstone.github
 baseurl:             /
+gems:                [jekyll-paginate]
 paginate:            5
 banner:              banner.jpg
 
