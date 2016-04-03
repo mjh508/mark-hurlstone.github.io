@@ -19,15 +19,15 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.** (2016, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.
+**Hurlstone, M. J.,** & Hitch, G. J. (2016, in preparation). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HH.16.pdf)
 
 ## Peer Reviewed Manuscripts - submitted
 
-Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). Going with the Grain of Human Cognition: Applying insights from psychology to build support for vaccination.
+Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). [Going with the Grain of Human Cognition: Applying insights from psychology to build support for vaccination.](/RHL.16.pdf)
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). Cooperation studies of catastrophe avoidance: Implications for climate negotiations.
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWLW.15.pdf)
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HHH.15.pdf)
 
 ## Peer Reviewed Manuscripts - published
 
