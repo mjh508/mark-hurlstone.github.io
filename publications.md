@@ -27,9 +27,9 @@ Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). [Going with 
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWLW.15.pdf)
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2015, submitted). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HHH.15.pdf)
-
 ## Peer Reviewed Manuscripts - published
+
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016, in press). Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism. *Cognitive Psychology*.
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324.
 
