@@ -29,7 +29,7 @@ Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). [Going with 
 
 ## Peer Reviewed Manuscripts - published
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016, in press). Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism. *Cognitive Psychology*.
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016, in press). <a href="https://www.researchgate.net/publication/301887128_Effects_of_rhythm_on_memory_for_spoken_sequences_A_model_and_tests_of_its_stimulus-driven_mechanism">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> *Cognitive Psychology*. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324.
 
