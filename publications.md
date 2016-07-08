@@ -11,7 +11,7 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2016, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2016, in preparation). How is the serial order of a visual sequence represented? Insights from transposition latencies.
+**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2016, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests. 
 
 **Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2016, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
@@ -23,9 +23,13 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). [Going with the Grain of Human Cognition: Applying insights from psychology to build support for vaccination.](/RHL.16.pdf)
+**Hurlstone, M. J.,** & Hitch, G. J. (2016, submitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.16.Sub.pdf)
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2015, submitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWLW.15.pdf)
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2016, resubmitted). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/HPWLW.16.pdf)
+
+Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016, submitted). [Going with the grain of cognition: Applying insights from psychology to build support for childhood vaccination.](/RHL.16.pdf)
+
+Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2016, resubmitted). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
 ## Peer Reviewed Manuscripts - published
 
