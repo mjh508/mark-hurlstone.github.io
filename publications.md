@@ -33,7 +33,7 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2016, 
 
 ## Peer Reviewed Manuscripts - published
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016, in press). <a href="https://www.researchgate.net/publication/301887128_Effects_of_rhythm_on_memory_for_spoken_sequences_A_model_and_tests_of_its_stimulus-driven_mechanism">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> *Cognitive Psychology*. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016, in press). <a href="https://www.researchgate.net/publication/301887128_Effects_of_rhythm_on_memory_for_spoken_sequences_A_model_and_tests_of_its_stimulus-driven_mechanism">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). <a href="https://www.researchgate.net/publication/266855741_How_Is_the_Serial_Order_of_a_Spatial_Sequence_Represented_Insights_From_Transposition_Latencies">How is the serial order of a spatial sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324.
 
