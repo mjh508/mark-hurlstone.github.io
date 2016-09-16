@@ -31,7 +31,7 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2016, 
 
 ## Peer Reviewed Manuscripts - published
 
-Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). [Going with the grain of cognition: Applying insights from psychology to build support for childhood vaccination.](/RHL.16.pdf) *Frontiers in Psychology, 7:*1483.
+Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). <a href="https://www.researchgate.net/publication/308152940_Going_with_the_Grain_of_Cognition_Applying_insights_from_psychology_to_build_support_for_childhood_vaccination">Going with the grain of cognition: Applying insights from psychology to build support for childhood vaccination.</a> *Frontiers in Psychology, 7:*1483.
 
 Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). <a href="https://www.researchgate.net/publication/301887128_Effects_of_rhythm_on_memory_for_spoken_sequences_A_model_and_tests_of_its_stimulus-driven_mechanism">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
