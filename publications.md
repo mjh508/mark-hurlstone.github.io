@@ -9,7 +9,7 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2016, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
+**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2016, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
 **Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2016, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests. 
 
