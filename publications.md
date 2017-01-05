@@ -29,7 +29,7 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2016, 
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2016). <a href="https://www.researchgate.net/publication/309133097_Cooperation_Studies_of_Catastrophe_Avoidance_Implications_for_Climate_Negotiations">Cooperation studies of catastrophe avoidance: Implications for climate negotiations.</a> *Climatic Change*.
+**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2017). <a href="https://www.researchgate.net/publication/309133097_Cooperation_Studies_of_Catastrophe_Avoidance_Implications_for_Climate_Negotiations">Cooperation studies of catastrophe avoidance: Implications for climate negotiations.</a> *Climatic Change, 140,* 119-133.
 
 Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). <a href="https://www.researchgate.net/publication/308152940_Going_with_the_Grain_of_Cognition_Applying_insights_from_psychology_to_build_support_for_childhood_vaccination">Going with the grain of cognition: Applying insights from psychology to build support for childhood vaccination.</a> *Frontiers in Psychology, 7:*1483.
 
