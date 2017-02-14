@@ -9,23 +9,25 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2016, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
+**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2017, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2016, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests. 
+**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2017, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests. 
 
-**Hurlstone, M. J.,** Farrell, S., & Lewandowsky, S. (2016, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+**Hurlstone, M. J.,** & Farrell, S. (2017, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
-**Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2016, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
+**Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2017, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
-**Hurlstone, M. J.** (2016, in preparation). Modelling immediate serial spatial recall in a macaque (Macaca mulatta).
+**Hurlstone, M. J.** (2017, in preparation). Modelling immediate serial spatial recall performance in a macaque (Macaca mulatta): A competitive queuing approach.
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2016, in preparation). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HH.16.pdf)
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2016, in revision). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.16.Sub.pdf)
+**Hurlstone, M. J.,** & Hitch, G. J. (2017, resubmitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf)
 
-Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2016, resubmitted). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
+
+Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2017, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
 ## Peer Reviewed Manuscripts - published
 
