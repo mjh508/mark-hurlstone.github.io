@@ -25,7 +25,7 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2017, resubmitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf) [[Integral Supplementary Material](/HH.17.ISM.Re-Sub.pdf)]
 
-<ul>A copy of the original version of the above manuscript which includes fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach can be found [here](/HH.17.Orig.pdf).</ul></p>
+<ul> [Original submission](/HH.17.Orig.pdf) of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul></p>
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
 
