@@ -23,7 +23,7 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2017, resubmitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf) [Integral Supplementary Material](/HH.17.ISM.Re-Sub.pdf)
+**Hurlstone, M. J.,** & Hitch, G. J. (2017, resubmitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf) [[Integral Supplementary Material]](/HH.17.ISM.Re-Sub.pdf)
 
 <ul>A copy of the original version of the above manuscript which includes fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach can be found [here](/HH.17.Orig.pdf).</ul></p>
 
