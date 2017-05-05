@@ -25,7 +25,7 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2017, resubmitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf) [[Integral Supplementary Material](/HH.17.ISM.Re-Sub.pdf)]
 
-<ul> [Original submission](/HH.17.Orig.pdf) of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul></p>
+<ul>[Original submission](/HH.17.Orig.pdf) of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul></p>
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
 
@@ -41,7 +41,7 @@ Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). <a href="https://www.r
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). <a href="https://www.researchgate.net/publication/266855741_How_Is_the_Serial_Order_of_a_Spatial_Sequence_Represented_Insights_From_Transposition_Latencies">How is the serial order of a spatial sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324.
 
-<ul> [Supplementary material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
+<ul>[Supplementary material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
 
 <!-- <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p> -->
 
