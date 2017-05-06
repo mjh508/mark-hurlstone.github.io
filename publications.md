@@ -23,17 +23,15 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+**Hurlstone, M. J.,** & Hitch, G. J. (2017, resubmitted). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf) [[Integral Supplementary Material](/HH.17.ISM.Re-Sub.pdf)]
+
+<ul>[Original submission](/HH.17.Orig.pdf) of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul></p>
+
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2017, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
 ## Peer Reviewed Manuscripts - published
-
-**Hurlstone, M. J.,** & Hitch, G. J. (2017, in press). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](/HH.17.Re-Sub.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition.* [[Integral Supplementary Material](/HH.17.ISM.Re-Sub.pdf)]
-
-***
-[Original submission](/HH.17.Orig.pdf) of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.
-***
 
 **Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2017). <a href="https://www.researchgate.net/publication/309133097_Cooperation_Studies_of_Catastrophe_Avoidance_Implications_for_Climate_Negotiations">Cooperation studies of catastrophe avoidance: Implications for climate negotiations.</a> *Climatic Change, 140,* 119-133.
 
@@ -41,11 +39,10 @@ Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). <a href="https://www.re
 
 Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). <a href="https://www.researchgate.net/publication/301887128_Effects_of_rhythm_on_memory_for_spoken_sequences_A_model_and_tests_of_its_stimulus-driven_mechanism">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2015). <a href="https://www.researchgate.net/publication/266855741_How_Is_the_Serial_Order_of_a_Spatial_Sequence_Represented_Insights_From_Transposition_Latencies">How is the serial order of a spatial sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324. 
+**Hurlstone, M. J.,** & Hitch, G. J. (2015). <a href="https://www.researchgate.net/publication/266855741_How_Is_the_Serial_Order_of_a_Spatial_Sequence_Represented_Insights_From_Transposition_Latencies">How is the serial order of a spatial sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory & Cognition, 41,* 295-324.
 
-***
-[Supplementary material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.
-***
+<ul>[Supplementary material](/HH.15.JEPLMC.Supp.pdf) for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p>
+
 <!-- <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul></p> -->
 
 **Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). <a href="https://www.researchgate.net/publication/267156005_The_Effect_of_Framing_and_Normative_Messages_in_Building_Support_for_Climate_Policies">The role of framing and normative messages in building support for climate policies.</a> *PLoS ONE.* [[Data](/PLoS.ONE.14.Data.xlsx)] [[Supplementary Material](/HLNS.14.PLoS.ONE.Supp.pdf)]
