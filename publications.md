@@ -11,17 +11,19 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2017, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2017, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests. 
+**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2017, in preparation). The biosecurity game: A new cooperation game for simulating the prevention of invasive pests. 
 
 **Hurlstone, M. J.,** & Farrell, S. (2017, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
 **Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2017, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
-**Hurlstone, M. J.** (2017, in preparation). Modelling immediate serial spatial recall performance in a macaque (Macaca mulatta): A competitive queuing approach.
-
 **Hurlstone, M. J.,** & Hitch, G. J. (2017, in preparation). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HH.16.pdf)
 
 ## Peer Reviewed Manuscripts - submitted
+
+Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2017, submitted). Emotions predict policy support: Why it matters how people feel about climate change.
+
+**Hurlstone, M. J.** (2017, in preparation). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (Macaca mulatta): A competitive queuing approach.</a>
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
 
