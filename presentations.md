@@ -3,15 +3,11 @@ layout: page
 title: Presentations
 ---
 
-<p class="message">
-Some recent presentations from various conferences and workshops are available for download below. 
-<p>
-
 <!-- --constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>-- -->
 
-**Hurlstone, M. J.,** Hartley, T., Hitch, G. J. (July, 2016). <a href="/HHH.16.ICOM.pdf">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> Paper presented at the Sixth International Conference On Memory, Budapest, Hungary.
+**Hurlstone, M. J.,** Hartley, T., Hitch, G. J. (July, 2016). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HHH.16.ICOM.pdf) Paper presented at the Sixth International Conference On Memory, Budapest, Hungary. 
 
-**Hurlstone, M. J.** (July, 2016). <a href="/H.16.ICOM.pdf">Modelling immediate serial spatial recall in a macaque (*Macaca mulatta*): A competitive queuing approach.</a> Paper presented at the Sixth International Conference On Memory, Budapest, Hungary.
+**Hurlstone, M. J.** (July, 2016). [Modelling immediate serial spatial recall in a macaque (*Macaca mulatta*): A competitive queuing approach.](/H.16.ICOM.pdf) Paper presented at the Sixth International Conference On Memory, Budapest, Hungary.
 
 **Hurlstone, M. J.** (July, 2015). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](/H.15.WSEN.pdf) WSEN, Murdoch University WA, Australia.
 
