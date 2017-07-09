@@ -23,7 +23,7 @@ Please see copyright notice at bottom of page.
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2017, submitted). Emotions predict policy support: Why it matters how people feel about climate change.
 
-**Hurlstone, M. J.** (2017, in preparation). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
+**Hurlstone, M. J.** (2017, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
 
