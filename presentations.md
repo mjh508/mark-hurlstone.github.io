@@ -5,7 +5,7 @@ title: Presentations
 
 <!-- --constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>-- -->
 
-**Hurlstone, M. J.,** Hartley, T., Hitch, G. J. (July, 2016). <ul><a href="/HHH.16.ICOM.pdf">[Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/) Paper presented at the Sixth International Conference On Memory, Budapest, Hungary. 
+**Hurlstone, M. J.,** Hartley, T., Hitch, G. J. (July, 2016). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](/HHH.16.ICOM.pdf) Paper presented at the Sixth International Conference On Memory, Budapest, Hungary. 
 
 **Hurlstone, M. J.** (July, 2016). [Modelling immediate serial spatial recall in a macaque (*Macaca mulatta*): A competitive queuing approach.](/H.16.ICOM.pdf) Paper presented at the Sixth International Conference On Memory, Budapest, Hungary.
 

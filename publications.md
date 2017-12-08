@@ -9,8 +9,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** Dawson, A., & Newell, B. (2017, in preparation). Negotiating to avoid catastrophic climate change: Anexperimental assessment of early warning signals of approaching climate thresholds.
-
 **Hurlstone, M. J.,** Price, A., Wang, S.,  Leviston, Z., & Walker, I. (2017, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
 
 **Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2017, in preparation). The biosecurity game: A new cooperation game for simulating the prevention of invasive pests. 
@@ -23,13 +21,11 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2017, submitted). Contingency Tables Reduce Demand for Ineffective Health Products: Overcoming the Illusion of Causality.
+Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2017, submitted). Emotions predict policy support: Why it matters how people feel about climate change.
 
-Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2017, in-revision). Emotions predict policy support: Why it matters how people feel about climate change.
+**Hurlstone, M. J.** (2017, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
 
-**Hurlstone, M. J.** (2017, in revision). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
-
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, re-submitted). Benchmarks for models of working memory.
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2017, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
