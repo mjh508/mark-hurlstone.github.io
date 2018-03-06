@@ -33,7 +33,7 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, 
 
 **Hurlstone, M. J.** (2018, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
 
-**Hurlstone, M. J.,**  (2018, submitted). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HH.16.pdf)
+**Hurlstone, M. J.,**  (2018, submitted). Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, submitted). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
