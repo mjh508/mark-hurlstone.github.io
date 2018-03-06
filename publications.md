@@ -9,8 +9,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-Bezdicek, O., Ballarini, T., Libon, D. J., Lamar, M., **Hurlstone, M. J.,** Ruzicka, F., Roth, J., Mueller, K., Schroeter, M. L., & Jech, R. (2018, in preparation). Serial order recall in working memory across the cognition spectrum of Parkinson's disease and its volumetric and functional correlates.
-
 Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, in preparation). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2018, in preparation). Crafting normative messages to promote childhood vaccination.
