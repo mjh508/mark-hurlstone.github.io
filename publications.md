@@ -9,29 +9,47 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.,** Price, A., Wang, S.,  Leviston, Z., & Walker, I. (2017, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
+Bezdicek, O., Ballarini, T., Libon, D. J., Lamar, M., **Hurlstone, M. J.,** Ruzicka, F., Roth, J., Mueller, K., Schroeter, M. L., & Jech, R. (2018, in preparation). Serial order recall in working memory across the cognition spectrum of Parkinson's disease and its volumetric and functional correlates.
 
-**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S., (2017, in preparation). The biosecurity game: A new cooperation game for simulating the prevention of invasive pests. 
+Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, in preparation). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
 
-**Hurlstone, M. J.,** & Farrell, S. (2017, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2018, in preparation). Crafting normative messages to promote childhood vaccination.
 
-**Hurlstone, M. J.,** Ecker, U. K. H., & Tuckey, E. (2017, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
+**Hurlstone, M. J.** (2018, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2017, in preparation). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HH.16.pdf)
+**Hurlstone, M. J.,** & Newell, B. R. (2018, in preparation). Negotiating to avoid catastrophic climate change: An experimental assessment of early warning signals of approaching climate thresholds.
+
+**Hurlstone, M. J.,** & Wang, S. (2018, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate change game.
+
+**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S. (2018, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
+
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2018, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
+
+**Hurlstone, M. J.,** & Farrell, S. (2018, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+
+**Hurlstone, M. J.,** & Ecker, U. K. H., (2018, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2017, submitted). Emotions predict policy support: Why it matters how people feel about climate change.
+Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
-**Hurlstone, M. J.** (2017, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
+**Hurlstone, M. J.** (2018, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2017, submitted). Benchmarks for models of working memory.
+**Hurlstone, M. J.,**  (2018, submitted). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](/HH.16.pdf)
 
-Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2017, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
+Quinlan, P., & **Hurlstone, M. J.** (2018, submitted). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
+
+Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, submitted). Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.
+
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Contingency tables reduce demand for ineffective health products: Overcoming the illusion of causality.
+
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, submitted). Benchmarks for models of working memory.
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2017, in press). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition.* [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
+Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018, in press). Emotions predict policy support: Why it matters how people feel about climate change. *Global Environmental Change.*
+
+**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition.* [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
 
 <ul><a href="/HH.17.Orig.pdf">Original submission</a> of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul>
 
