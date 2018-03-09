@@ -41,9 +41,9 @@ Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, submitted). Correct me if Iâ€
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Contingency tables reduce demand for ineffective health products: Overcoming the illusion of causality.
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, submitted). Benchmarks for models of working memory.
-
 ## Peer Reviewed Manuscripts - published
+
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). Benchmarks for models of working memory.
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018, in press). Emotions predict policy support: Why it matters how people feel about climate change. *Global Environmental Change.*
 
