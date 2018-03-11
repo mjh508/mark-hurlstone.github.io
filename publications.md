@@ -47,7 +47,7 @@ Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., 
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018, in press). [Emotions predict policy support: Why it matters how people feel about climate change.](/WLHLW18.GEC.pdf) *Global Environmental Change.*
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition.* [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
+**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
 
 <ul><a href="/HH.17.Orig.pdf">Original submission</a> of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul>
 
