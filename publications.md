@@ -43,9 +43,9 @@ MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Conti
 
 ## Peer Reviewed Manuscripts - published
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). Benchmarks for models of working memory. *Psychological Bulletin.*
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of working memory.](/O.et.al.18.PB.pdf)  *Psychological Bulletin.*
 
-Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018, in press). Emotions predict policy support: Why it matters how people feel about climate change. *Global Environmental Change.*
+Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018, in press). [Emotions predict policy support: Why it matters how people feel about climate change.](/WLHLW18.GEC.pdf) *Global Environmental Change.*
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition.* [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
 
