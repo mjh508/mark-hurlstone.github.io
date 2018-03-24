@@ -9,8 +9,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, in preparation). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
-
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2018, in preparation). Crafting normative messages to promote childhood vaccination.
 
 **Hurlstone, M. J.** (2018, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
@@ -28,6 +26,8 @@ Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, in preparati
 **Hurlstone, M. J.,** & Ecker, U. K. H., (2018, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
 ## Peer Reviewed Manuscripts - submitted
+
+Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, submitted). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
