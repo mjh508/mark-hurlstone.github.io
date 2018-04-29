@@ -27,7 +27,9 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, submitted). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
+Andreotta, M., **Hurlstone, M. J.,** Nugroho, R., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2018). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. 
+
+Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, in revision). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
@@ -35,7 +37,7 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, 
 
 **Hurlstone, M. J.,**  (2018, submitted). Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.
 
-Quinlan, P., & **Hurlstone, M. J.** (2018, submitted). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
+Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, submitted). Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.
 
