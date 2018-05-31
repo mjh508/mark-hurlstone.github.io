@@ -45,7 +45,9 @@ MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Conti
 
 ## Peer Reviewed Manuscripts - published
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of working memory.](/O.et.al.18.PB.pdf)  *Psychological Bulletin.*
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of short-term and working memory: Response to the commentaries of Logie and Vandierendonck.](/O.et.al.18B.PB.pdf)  *Psychological Bulletin.*
+
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of short-term and working memory.](/O.et.al.18A.PB.pdf)  *Psychological Bulletin.*
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018). [Emotions predict policy support: Why it matters how people feel about climate change.](/WLHLW18.GEC.pdf) *Global Environmental Change, 50,* 25-40.
 
