@@ -45,7 +45,9 @@ MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Conti
 
 ## Peer Reviewed Manuscripts - published
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of short-term and working memory: Response to the commentaries of Logie and Vandierendonck.](/O.et.al.18B.PB.pdf)  *Psychological Bulletin.*
+**Hurlstone, M. J.,**  (2018, in press). <a href="https://www.researchgate.net/publication/325877844_Functional_similarities_and_differences_between_the_coding_of_positional_information_in_verbal_and_spatial_short-term_order_memory">Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory. </a> *Memory.*
+
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck.](/O.et.al.18B.PB.pdf)  *Psychological Bulletin.*
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of short-term and working memory.](/O.et.al.18A.PB.pdf)  *Psychological Bulletin.*
 
