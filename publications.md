@@ -19,7 +19,7 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S. (2018, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2018, in preparation). Building affinity with future generations mitigates intergenerational discounting in the climate game.
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2018, in preparation). Crafting intergenerational messages to protect the climate.
 
 **Hurlstone, M. J.,** & Farrell, S. (2018, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
@@ -29,13 +29,9 @@ Please see copyright notice at bottom of page.
 
 Andreotta, M., **Hurlstone, M. J.,** Nugroho, R., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2018). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. 
 
-Rossen, I., **Hurlstone, M. J.,** Dunlop, P., & Lawrence, C. (2018, in revision). Moral profiling of vaccination attitudes: Evidence for different vaccination belief types with different moral profiles.
-
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
 **Hurlstone, M. J.** (2018, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
-
-**Hurlstone, M. J.,**  (2018, submitted). Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
