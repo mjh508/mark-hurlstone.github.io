@@ -27,6 +27,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+**Hurlstone, M. J.** (2018, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
+
 Andreotta, M., **Hurlstone, M. J.,** Nugroho, R., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2018). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. 
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
