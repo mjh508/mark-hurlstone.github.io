@@ -37,9 +37,9 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, submitted). Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Contingency tables reduce demand for ineffective health products: Overcoming the illusion of causality.
-
 ## Peer Reviewed Manuscripts - published
+
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Contingency tables reduce demand for ineffective health products: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health.* 
 
 **Hurlstone, M. J.,**  (2018, in press). <a href="https://www.researchgate.net/publication/325877844_Functional_similarities_and_differences_between_the_coding_of_positional_information_in_verbal_and_spatial_short-term_order_memory">Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory. </a> *Memory.*
 
