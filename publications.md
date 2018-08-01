@@ -43,6 +43,8 @@ Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, submitted). Correct me if Iâ€
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Contingency tables reduce demand for ineffective health products: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health.* 
 
+<ul><a href="/MHE.18.P&H.SM.pdf">Supplemental Materials</a> for the above paper, which reports the results of a pilot study that preceeeded the main study reported in the published article.</ul>
+
 **Hurlstone, M. J.,**  (2018, in press). <a href="https://www.researchgate.net/publication/325877844_Functional_similarities_and_differences_between_the_coding_of_positional_information_in_verbal_and_spatial_short-term_order_memory">Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory. </a> *Memory.*
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck.](/O.et.al.18B.PB.pdf)  *Psychological Bulletin.*
