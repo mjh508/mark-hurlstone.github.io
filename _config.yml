@@ -1,28 +1,35 @@
 # Dependencies
-markdown:            kramdown         
-highlighter:         rouge
-
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-# permalink:           pretty
+markdown:         kramdown
+highlighter:      rouge
 
 # Setup
-title:               Mark Hurlstone
-tagline:             
-description:         'Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
-url:                 http://mark-hurlstone.github
-baseurl:             /
-gems:                [jekyll-paginate]
-paginate:            5
-paginate_path:       "page:num"      
-banner:              banner.jpg
+title:            Hydeout
+tagline:          'A Jekyll theme'
+description:      'Assistant Professor<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
+url:              http://mark-hurlstone.github
+baseurl:          /
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
-# About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:           'Andrew Fong'
+  url:            https://twitter.com/fongandrewc
 
-# Custom vars
-version:             1.0.0
+paginate:         5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
