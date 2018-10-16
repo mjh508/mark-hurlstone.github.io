@@ -29,11 +29,13 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.** (2018, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
 
-Andreotta, M., **Hurlstone, M. J.,** Nugroho, R., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2018). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. 
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Reducing demand for unsupported health remedies: A taxonomy for overcoming psychological barriers.
+
+Andreotta, M., **Hurlstone, M. J.,** Nugroho, R., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2018, in revision). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. 
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
-**Hurlstone, M. J.** (2018, submitted). <a href="https://www.researchgate.net/publication/318206616_Modelling_spatial_immediate_serial_recall_performance_in_a_macaque_Macaca_mulatta">Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.</a>
+**Hurlstone, M. J.** (2018, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
