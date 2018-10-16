@@ -37,15 +37,15 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, 
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
-Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, submitted). Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.
-
 ## Peer Reviewed Manuscripts - published
+
+Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Contingency tables reduce demand for ineffective health products: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health.* 
 
 <ul><a href="/MHE.18.P&H.SM.pdf">Supplemental Materials</a> for the above paper, which reports the results of a pilot study that preceeeded the main study reported in the published article.</ul>
 
-**Hurlstone, M. J.,**  (2018, in press). <a href="https://www.researchgate.net/publication/325877844_Functional_similarities_and_differences_between_the_coding_of_positional_information_in_verbal_and_spatial_short-term_order_memory">Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory. </a> *Memory.*
+**Hurlstone, M. J.,**  (2018). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](H.18.M.pdf) *Memory, 14,* 1-16. 
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck.](/O.et.al.18B.PB.pdf)  *Psychological Bulletin.*
 
@@ -57,11 +57,11 @@ Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018).
 
 <ul><a href="/HH.17.Orig.pdf">Original submission</a> of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul>
 
-**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2017). <a href="https://www.researchgate.net/publication/309133097_Cooperation_Studies_of_Catastrophe_Avoidance_Implications_for_Climate_Negotiations">Cooperation studies of catastrophe avoidance: Implications for climate negotiations.</a> *Climatic Change, 140,* 119-133.
+**Hurlstone, M. J.,** Wang, S., Price, A., Leviston, Z., & Walker, I. (2017). [Cooperation studies of catastrophe avoidance: Implications for climate negotiations.](HWPLW.17.CC.pdf) *Climatic Change, 140,* 119-133.
 
-Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). <a href="https://www.researchgate.net/publication/308152940_Going_with_the_Grain_of_Cognition_Applying_insights_from_psychology_to_build_support_for_childhood_vaccination">Going with the grain of cognition: Applying insights from psychology to build support for childhood vaccination.</a> *Frontiers in Psychology, 7:*1483.
+Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). [Going with the grain of cognition: Applying insights from psychology to build support for childhood vaccination.](RHL.18.FiP.16.pdf) *Frontiers in Psychology, 7:*1483.
 
-Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). <a href="https://www.researchgate.net/publication/301887128_Effects_of_rhythm_on_memory_for_spoken_sequences_A_model_and_tests_of_its_stimulus-driven_mechanism">Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.</a> *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
+Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](HHH.16.Cog.Psych.pdf) *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
 **Hurlstone, M. J.,** & Hitch, G. J. (2015). <a href="https://www.researchgate.net/publication/266855741_How_Is_the_Serial_Order_of_a_Spatial_Sequence_Represented_Insights_From_Transposition_Latencies">How is the serial order of a spatial sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41,* 295-324.
 
