@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: default
+title: 
 ---
 
 <!-- <img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone"> -->
