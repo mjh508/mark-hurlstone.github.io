@@ -9,8 +9,8 @@ sidebar_sort_order: 2
 
 ## Primary or co-supervisor
 Susie Wang (with Carmen Lawrence, Zoe Leviston, and Iain Walker) <br>
-Georgiana Cheuck (with Simon Farrell)
-Matthew Andreotta (with Fabio Boschetti, Cecile Paris, Simon Farrell, and Iain Walker)
+Georgiana Cheuck (with Simon Farrell) <br>
+Matthew Andreotta (with Fabio Boschetti, Cecile Paris, Simon Farrell, and Iain Walker) <br>
 Douglas MacFarlane (with Ullrich Ecker)
 
 ## Secondary supervisor
