@@ -2,6 +2,7 @@
 layout: page
 title: Collaborators
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 <p> <a href="https://people.csiro.au/B/F/Fabio-Boschetti">Fabio Boschetti</a> CSIRO and University of Western Australia </p>

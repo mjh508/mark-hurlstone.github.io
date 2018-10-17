@@ -2,6 +2,7 @@
 layout: page
 title: Presentations
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 <!-- --constructed with <a href="http://www.latex-project.org">LaTeX</a> using the <a href="https://bitbucket.org/rivanvx/beamer/wiki/Home">Beamer class</a>-- -->
