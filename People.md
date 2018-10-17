@@ -1,5 +1,5 @@
 ---
-layout: search
+layout: page
 title: Lab Members
 sidebar_link: true
 sidebar_sort_order: 2
