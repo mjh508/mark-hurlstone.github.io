@@ -1,5 +1,5 @@
 ---
 layout: search
-title: Google Search
+title: Search
 sidebar_link: true
 ---
