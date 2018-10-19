@@ -29,7 +29,7 @@ paginate:         5
                     # Or '/blog/page:num' if you want to move your index pages
 
 disqus:
-shortname:        my-disqus-shortname
+  shortname:       my-disqus-shortname
 
 plugins:
   - jekyll-feed
