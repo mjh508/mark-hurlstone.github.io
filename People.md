@@ -2,7 +2,7 @@
 layout: page
 title: Lab Members
 sidebar_link: true
-sidebar_sort_order: 2
+sidebar_sort_order: 3
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

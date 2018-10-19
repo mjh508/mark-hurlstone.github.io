@@ -2,7 +2,7 @@
 layout: page
 title: Collaborators
 sidebar_link: true
-sidebar_sort_order: 1
+sidebar_sort_order: 2
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

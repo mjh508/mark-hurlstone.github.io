@@ -2,7 +2,7 @@
 layout: search
 title: Google Search
 sidebar_link: true
-sidebar_sort_order: 6
+sidebar_sort_order: 7
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -2,7 +2,7 @@
 layout: page
 title: Study
 sidebar_link: true
-sidebar_sort_order: 5
+sidebar_sort_order: 6
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
