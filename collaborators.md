@@ -5,6 +5,16 @@ sidebar_link: true
 sidebar_sort_order: 1
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127807240-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127807240-1');
+</script>
+
 <p> <a href="https://people.csiro.au/B/F/Fabio-Boschetti">Fabio Boschetti</a> CSIRO and University of Western Australia </p>
 <p> <a href="https://research-repository.uwa.edu.au/en/persons/patrick-dunlop">Patrick Dunlop</a> University of Western Australia </p>
 <p> <a href="https://www.emc-lab.org">Ullrich Ecker</a> University of Western Australia </p>

@@ -3,6 +3,16 @@ layout: page
 title: 
 ---
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127807240-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127807240-1');
+</script>
+
 <!-- <img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone"> -->
 
 ## Contact details
