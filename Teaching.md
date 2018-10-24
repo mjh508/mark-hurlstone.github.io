@@ -32,7 +32,7 @@ This unit introduces students to the theoret- ical and practical underpinnings o
 11. Week 11: [Item Response Theory.](Week 10. Item Response Theory)
 
 ## PSYC3310 Specialist Topics in Psychology
-This unit focuses on providing students with the opportunity to learn about and perform research in a specialist topic area of psychology. Teaching is by seminars (10×2 hours) and tutorials (10×2 hours) which are delivered to a small class of between 20–30 students. Evaluation is by small scale research project report (60%), research proposal (15%), ethics application (5%), class participation and informal group presentation (10%), and formal group presentation (10%). I have delivered topics in this unit spanning a wide range of areas including: Principles of Short-term and Episodic Memory, Psychology and Climate Change, and Political Psychology. For the past few years I have delivered a unit on Behavioural Economics.
+This unit focuses on providing students with the opportunity to learn about and perform research in a specialist topic area of psychology. Teaching is by seminars (10×2 hours) and tutorials (10×2 hours) which are delivered to a small class of between 20–30 students. Evaluation is by small scale research project report (60%), research proposal (15%), ethics application (5%), class participation and informal group presentation (10%), and formal group presentation (10%). I have delivered topics in this unit spanning a wide range of areas including: Principles of Short-term and Episodic Memory, Psychology and Climate Change, and Political Psychology. For the past few years I have delivered a topic on Behavioural Economics.
 
 #### Seminars
 1. Week 1: [Unit Outline and Topic Overview.]()
