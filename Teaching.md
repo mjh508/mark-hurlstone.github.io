@@ -36,15 +36,15 @@ This unit focuses on providing students with the opportunity to learn about and 
 
 ### Seminars
 1. Week 1: [Unit Outline and Topic Overview.](Week 1. Overview of Unit.pdf) 
-2. Week 2: [Introduction to Behavioural Economics.]() [[Readings]()]
-3. Week 3: [Decision Making Under Certainty.](Week 3. Decision Making Under Certainty.pdf) [[Readings]()]
-4. Week 4: [Judgement Under Risk and Uncertainty.](Week 4. Judgement Under Risk and Uncertainty.pdf) [[Readings]()]
-5. Week 5: [Decision Making Under Risk and Uncertainty.](Week 5. Decision Making Under Risk and Uncertainty.pdf) [[Readings]()]
-6. Week 6: [Mental Accounting.](Week 6. Mental Accounting.pdf) [[Readings]()]
-7. Week 7: [Intertemporal Choice.](Week 7. Intertemporal Choice.pdf) [[Readings]()]
-8. Week 8: [Social Preferences.](Week 8. Social Preferences.pdf) [[Readings]()]
-9. Week 9: [Game Theory.](Week 9. Game Theory.pdf) [[Readings]()]
-10. Week 10: [Happiness and Utility.](Week 10. Happiness and Utility.pdf) [[Readings]()]
+2. Week 2: Introduction to Behavioural Economics. [[Readings](Week 2. Reading List and Discussion Questions.pdf)]
+3. Week 3: [Decision Making Under Certainty.](Week 3. Decision Making Under Certainty.pdf) [[Readings](Week 3. Reading List.pdf)]
+4. Week 4: [Judgement Under Risk and Uncertainty.](Week 4. Judgement Under Risk and Uncertainty.pdf) [[Readings](Week 4. Reading List.pdf)]
+5. Week 5: [Decision Making Under Risk and Uncertainty.](Week 5. Decision Making Under Risk and Uncertainty.pdf) [[Readings](Week 5. Reading List.pdf)]
+6. Week 6: [Mental Accounting.](Week 6. Mental Accounting.pdf) [[Readings](Week 6. Reading List.pdf)]
+7. Week 7: [Intertemporal Choice.](Week 7. Intertemporal Choice.pdf) [[Readings](Week 7. Reading List.pdf)]
+8. Week 8: [Social Preferences.](Week 8. Social Preferences.pdf) [[Readings](Week 8. Reading List.pdf)]
+9. Week 9: [Game Theory.](Week 9. Game Theory.pdf) [[Readings](Week 9. Reading List.pdf)]
+10. Week 10: [Happiness and Utility.](Week 10. Happiness and Utility.pdf) [[Readings](Week 10. Reading List.pdf)]
 
 ## PSYC2212/3312 Psychology and Social Behaviour
 This unit examines the factors that influence psychological functioning in a social environment. The unit considers some of the latest theories, research and applications in areas such as attitudes, stereotyping and prejudice, relationships, altruism and social groups. Teaching is by seminars (13×2 hours) and laboratory classes (5×2 hours). Evaluation is by laboratory class participation (10%), two laboratory reports (20% each), and final exam (50%). I deliver a guest lecture and laboratory class on the [Behavioural Economics of Social Preferences](Social.Preferences.pdf).
