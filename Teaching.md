@@ -35,16 +35,16 @@ This unit introduces students to the theoretical and practical underpinnings of 
 This unit focuses on providing students with the opportunity to learn about and perform research in a specialist topic area of psychology. Teaching is by seminars (10×2 hours) and tutorials (10×2 hours) which are delivered to a small class of between 20–30 students. Evaluation is by small scale research project report (60%), research proposal (15%), ethics application (5%), class participation and informal group presentation (10%), and formal group presentation (10%). I have delivered topics in this unit spanning a wide range of areas including: Principles of Short-term and Episodic Memory, Psychology and Climate Change, and Political Psychology. For the past few years I have delivered a topic on Behavioural Economics.
 
 ### Seminars
-1. Week 1: [Unit Outline and Topic Overview.]()
-2. Week 2: [Introduction to Behavioural Economics.]()
-3. Week 3: [Decision Making Under Certainty.]()
-4. Week 4: [Judgement Under Risk and Uncertainty.]()
-5. Week 5: [Decision Making Under Risk and Uncertainty.]()
-6. Week 6: [Mental Accounting.]()
-7. Week 7: [Intertemporal Choice.]()
-8. Week 8: [Social Preferences.]()
-9. Week 9: [Game Theory.]()
-10. Week 10: [Happiness and Utility.]()
+1. Week 1: [Unit Outline and Topic Overview.](Week 1. Overview of Unit.pdf) 
+2. Week 2: [Introduction to Behavioural Economics.]() [[Readings]()]
+3. Week 3: [Decision Making Under Certainty.](Week 3. Decision Making Under Certainty.pdf) [[Readings]()]
+4. Week 4: [Judgement Under Risk and Uncertainty.](Week 4. Judgement Under Risk and Uncertainty.pdf) [[Readings]()]
+5. Week 5: [Decision Making Under Risk and Uncertainty.](Week 5. Decision Making Under Risk and Uncertainty.pdf) [[Readings]()]
+6. Week 6: [Mental Accounting.](Week 6. Mental Accounting.pdf) [[Readings]()]
+7. Week 7: [Intertemporal Choice.](Week 7. Intertemporal Choice.pdf) [[Readings]()]
+8. Week 8: [Social Preferences.](Week 8. Social Preferences.pdf) [[Readings]()]
+9. Week 9: [Game Theory.](Week 9. Game Theory.pdf) [[Readings]()]
+10. Week 10: [Happiness and Utility.](Week 10. Happiness and Utility.pdf) [[Readings]()]
 
 ## PSYC2212/3312 Psychology and Social Behaviour
 This unit examines the factors that influence psychological functioning in a social environment. The unit considers some of the latest theories, research and applications in areas such as attitudes, stereotyping and prejudice, relationships, altruism and social groups. Teaching is by seminars (13×2 hours) and laboratory classes (5×2 hours). Evaluation is by laboratory class participation (10%), two laboratory reports (20% each), and final exam (50%). I deliver a guest lecture and laboratory class on the [Behavioural Economics of Social Preferences](Social.Preferences.pdf).
