@@ -43,8 +43,6 @@ Please see copyright notice at bottom of page.
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Reducing demand for unsupported health remedies: A taxonomy for overcoming psychological barriers.
 
-Andreotta, M., **Hurlstone, M. J.,** Nugroho, R., Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2018, in revision). Performing qualitative analyses on social media data sets: An application to climate change commentary on Twitter. 
-
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
 
 **Hurlstone, M. J.** (2018, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
@@ -52,6 +50,8 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
+
+Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019, in press). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavioral Research Methods.* [Special issue on Using Big Data to Discover Principles of Cognition]. 
 
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
