@@ -51,7 +51,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 
 ## Peer Reviewed Manuscripts - published
 
-Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019, in press). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) [[Supplementary Material](RHDL.19.Supp.pdf)]
+Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019, in press). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine.* [[Supplementary Material](RHDL.19.Supp.pdf)]
 
 Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019, in press). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods.* [Special issue on Using Big Data to Discover Principles of Cognition]. 
 
