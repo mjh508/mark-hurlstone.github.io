@@ -37,15 +37,13 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2018, submitted). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
+**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2019, submitted). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
-**Hurlstone, M. J.** (2018, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
+**Hurlstone, M. J.** (2019, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, submitted). Reducing demand for unsupported health remedies: A taxonomy for overcoming psychological barriers.
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2019, submitted). Reducing demand for unsupported health remedies: A taxonomy for overcoming psychological barriers.
 
-Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2018, in revision). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.  
-
-**Hurlstone, M. J.** (2018, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
+**Hurlstone, M. J.** (2019, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
@@ -54,6 +52,8 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019, in press). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine.* [[Supplementary Material](RHDL.19.Supp.pdf)]
 
 Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019, in press). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods.* [Special issue on Using Big Data to Discover Principles of Cognition]. 
+
+Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019, in press). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement. *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
 
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
