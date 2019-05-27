@@ -23,19 +23,19 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.** (2018, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
 
-**Hurlstone, M. J.,** & Newell, B. R. (2018, in preparation). Negotiating to avoid catastrophic climate change: An experimental assessment of early warning signals of approaching climate thresholds.
+**Hurlstone, M. J.,** & Wang, S. (2018, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** & Wang, S. (2018, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate change game.
-
-**Hurlstone, M. J.,** White, B., McKie, G., & Tapsuwan, S. (2018, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
-
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2018, in preparation). Crafting intergenerational messages to protect the climate.
+**Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2018, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
 
 **Hurlstone, M. J.,** & Farrell, S. (2018, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
 **Hurlstone, M. J.,** & Ecker, U. K. H., (2018, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
 ## Peer Reviewed Manuscripts - submitted
+
+**Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
+
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2019, submitted). Activating the legacy motive mitigates intergenerational discounting in the climate game.
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2019, submitted). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
