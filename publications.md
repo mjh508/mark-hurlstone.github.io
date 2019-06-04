@@ -33,7 +33,7 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
+**Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change. [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2019, submitted). Activating the legacy motive mitigates intergenerational discounting in the climate game.
 
