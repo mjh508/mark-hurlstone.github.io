@@ -21,7 +21,13 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.** (2018, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
+**Hurlstone, M. J.** (2019, in preparation). Modelling response times in serial recall: A competitive queuing approach.
+
+**Hurlstone, M. J.** (2019, in preparation). Reappraising the evidence against time-based accounts of serial recall.
+
+**Hurlstone, M. J.** (2019, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
+
+**Hurlstone, M. J.,** & Farrell, S. (2019, in preparation). Associative chaining is not necessary to explain sequence learning.
 
 **Hurlstone, M. J.,** & Wang, S. (2018, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
 
