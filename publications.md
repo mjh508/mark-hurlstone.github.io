@@ -39,6 +39,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+**Hurlstone, M. J.** (2019, submitted). Serial recall. Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+
 **Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change. [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2019, submitted). Activating the legacy motive mitigates intergenerational discounting in the climate game.
