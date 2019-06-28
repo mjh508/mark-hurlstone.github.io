@@ -43,8 +43,6 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change. [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2019, submitted). Activating the legacy motive mitigates intergenerational discounting in the climate game.
-
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2019, submitted). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
 **Hurlstone, M. J.** (2019, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
