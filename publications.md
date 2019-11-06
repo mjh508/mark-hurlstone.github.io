@@ -59,9 +59,9 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 
 Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine.* [[Supplementary Material](RHDL.19.Supp.pdf)]
 
-Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019, in press). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods.* [Special issue on Using Big Data to Discover Principles of Cognition]. 
+Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods.* [Special issue on Using Big Data to Discover Principles of Cognition]. 
 
-Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019, in press). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement. *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
+Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement. *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
 
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
