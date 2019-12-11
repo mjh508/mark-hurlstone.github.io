@@ -17,8 +17,11 @@ sidebar_sort_order: 3
 
 # PhD students
 
-## Primary or co-supervisor
+## Completed
 Susie Wang (with Carmen Lawrence, Zoe Leviston, and Iain Walker) <br>
+
+## Primary or co-supervisor
+Li Qian Tay (with Ullrich Ecker) <br>
 Georgiana Cheuck (with Simon Farrell) <br>
 Matthew Andreotta (with Fabio Boschetti, Cecile Paris, Simon Farrell, and Iain Walker) <br>
 Douglas MacFarlane (with Ullrich Ecker)
@@ -30,11 +33,15 @@ Blake Cavve
 # Honours students
 
 ## Current
-Cassandra Mircev <br>
-Emma Vincan <br>
-Mathew Walczak
+Matthew Mortimer <br>
+Julia Nunn <br>
+Emma Sharpe <br>
+Christopher Zhao <br>
 
 ## Previous
+Cassandra Mircev <br>
+Emma Vincan <br>
+Mathew Walczak <br>
 Andrew Dawson <br>
 Savannah Robertson <br>
 Andrew Dobson <br>
