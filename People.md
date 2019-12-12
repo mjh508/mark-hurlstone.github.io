@@ -36,6 +36,7 @@ Blake Cavve
 Matthew Mortimer <br>
 Julia Nunn <br>
 Emma Sharpe <br>
+Kate Woolhouse <br>
 Christopher Zhao <br>
 
 ## Previous
