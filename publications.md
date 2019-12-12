@@ -47,15 +47,15 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.** (2019, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2019, submitted). Reducing demand for unsupported health remedies: A taxonomy for overcoming psychological barriers.
-
 **Hurlstone, M. J.** (2019, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2019, in press). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments. *Social Science & Medicine.*
+
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]
 
 Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine.* [[Supplementary Material](RHDL.19.Supp.pdf)]
 
