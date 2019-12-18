@@ -87,7 +87,7 @@ Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). [Going with the grain o
 
 Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](HHH.16.Cog.Psych.pdf) *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41,* 295-324.
+**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41,* 295-324. [<a href="https://github.com/mark-hurlstone/Hurlstone-and-Hitch-2015-JEP-LMC">GitHub Repository</a>]
 
 <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul>
 
