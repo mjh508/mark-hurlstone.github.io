@@ -77,7 +77,7 @@ Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., 
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018). Emotions predict policy support: Why it matters how people feel about climate change. *Global Environmental Change, 50,* 25-40.
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
+**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>] [<a href="https://github.com/mark-hurlstone/Hurlstone-and-Hitch-2018-JEP-LMC">GitHub Repository</a>]
 
 <ul><a href="/HH.17.Orig.pdf">Original submission</a> of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul>
 
@@ -97,7 +97,7 @@ Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). [Effects of rhythm on 
 
 Unsworth, K. L., Russell, S. V., Lewandowsky, S., Lawrence, C., Fielding, K., Heath, J., Evans, A., **Hurlstone, M. J.,** & McNeill, I. (2013). Individual adaptation to climate change and psychological drivers: What about me? Factors affecting individual adaptive coping capacity across different population. *National Climate Change Adaptation Research Facility.*
 
-Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). Sequential dependencies in recall of sequences: Filling in the blanks. *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">Data</a>]
+Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). Sequential dependencies in recall of sequences: Filling in the blanks. *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">GitHub Repository</a>]
 
 Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
 
