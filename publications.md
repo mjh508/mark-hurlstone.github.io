@@ -47,15 +47,15 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.** (2019, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2019, submitted). Reducing demand for unsupported health remedies: A taxonomy for overcoming psychological barriers.
-
 **Hurlstone, M. J.** (2019, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2019, in press). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments. *Social Science & Medicine.*
+
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
 
 Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine.* [[Supplementary Material](RHDL.19.Supp.pdf)]
 
@@ -77,7 +77,7 @@ Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., 
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018). Emotions predict policy support: Why it matters how people feel about climate change. *Global Environmental Change, 50,* 25-40.
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>]
+**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>] [<a href="https://github.com/mark-hurlstone/Hurlstone-and-Hitch-2018-JEP-LMC">GitHub Repository</a>]
 
 <ul><a href="/HH.17.Orig.pdf">Original submission</a> of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul>
 
@@ -87,7 +87,7 @@ Rossen, I., **Hurlstone, M. J.,** & Lawrence, C. (2016). [Going with the grain o
 
 Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). [Effects of rhythm on memory for spoken sequences: A model and tests of its stimulus-driven mechanism.](HHH.16.Cog.Psych.pdf) *Cognitive Psychology, 87,* 135-178. [[Supplementary Material](/HHH.16.Cog.Psy.Supp.pdf)]
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41,* 295-324.
+**Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition, 41,* 295-324. [<a href="https://github.com/mark-hurlstone/Hurlstone-and-Hitch-2015-JEP-LMC">GitHub Repository</a>]
 
 <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul>
 
@@ -97,7 +97,7 @@ Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). [Effects of rhythm on 
 
 Unsworth, K. L., Russell, S. V., Lewandowsky, S., Lawrence, C., Fielding, K., Heath, J., Evans, A., **Hurlstone, M. J.,** & McNeill, I. (2013). Individual adaptation to climate change and psychological drivers: What about me? Factors affecting individual adaptive coping capacity across different population. *National Climate Change Adaptation Research Facility.*
 
-Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). Sequential dependencies in recall of sequences: Filling in the blanks. *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">Data</a>]
+Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). Sequential dependencies in recall of sequences: Filling in the blanks. *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">GitHub Repository</a>]
 
 Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
 
