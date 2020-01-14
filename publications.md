@@ -39,8 +39,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.** (2019, submitted). Serial recall. Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
-
 **Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2019, submitted). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
@@ -52,6 +50,8 @@ Please see copyright notice at bottom of page.
 Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
+
+**Hurlstone, M. J.** (2019, submitted). Serial recall. Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments. *Social Science & Medicine.*
 
