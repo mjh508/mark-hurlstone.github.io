@@ -53,7 +53,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 
 ## Peer Reviewed Manuscripts - published
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments. *Social Science & Medicine.*
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
 
