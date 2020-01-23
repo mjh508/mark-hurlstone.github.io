@@ -53,7 +53,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
 
-**Hurlstone, M. J.** (2020). Serial recall. Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+**Hurlstone, M. J.** (2020). [Serial recall.](H.20.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
 
