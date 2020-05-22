@@ -53,6 +53,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effec
 ## Peer Reviewed Manuscripts - published
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). Countering demand for unsup- ported health remedies: Do consumers respond to risks, lack of benefits, or both? *Psychology & Health*.
 =======
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both? *Psychology & Health*.
@@ -64,6 +65,8 @@ Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., 
 <<<<<<< HEAD
 <<<<<<< HEAD
 
+=======
+>>>>>>> parent of 8ac260a... Update publications.md
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
 =======
 >>>>>>> parent of 5e267ca... Pubications update
