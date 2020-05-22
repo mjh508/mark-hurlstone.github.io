@@ -51,7 +51,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effec
 
 ## Peer Reviewed Manuscripts - published
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*.
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*. [[Supplementary Material](MHE.20.P&H.SM.pdf)]
 
 Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates. *Journal of Neuropsychology*.
 
