@@ -67,14 +67,14 @@ Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Wa
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement. *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
 
+**Hurlstone, M. J.,**  (2019). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](H.19.M.pdf) *Memory, 14,* 1-16.
+
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Reducing demand for ineffective health remedies: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health, 33,* 1472-1489. 
 
 <ul><a href="/MHE.18.P&H.SM.pdf">Supplemental Materials</a> for the above paper, which reports the results of a pilot study that preceeeded the main study reported in the published article.</ul>
-
-**Hurlstone, M. J.,**  (2018). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](H.18.M.pdf) *Memory, 14,* 1-16. 
-
+ 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018). Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck. *Psychological Bulletin, 144(9),* 972-977.
 
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). Benchmarks for models of short-term and working memory. *Psychological Bulletin, 144(9),* 885-958.
