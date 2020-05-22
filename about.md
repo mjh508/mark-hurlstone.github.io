@@ -41,5 +41,3 @@ I completed my undergraduate degree in Psychology at the University of Leicester
 *Human memory:* short-term and long-term memory; serial recall memory; free recall memory; sequence learning; relationship between time and memory.
 
 *Psychology and climate change:* using principles of cognitive and social psychology to facilitate the communication of climate science.
-
-<br/>
