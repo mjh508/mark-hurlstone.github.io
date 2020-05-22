@@ -21,55 +21,55 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.** (2019, in preparation). Modelling response times in serial recall: A competitive queuing approach.
+**Hurlstone, M. J.** (2020, in preparation). Modelling response times in serial recall: A competitive queuing approach.
 
-**Hurlstone, M. J.** (2019, in preparation). Reappraising the evidence against time-based accounts of serial recall.
+**Hurlstone, M. J.** (2020, in preparation). Reappraising the evidence against time-based accounts of serial recall.
 
-**Hurlstone, M. J.** (2019, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
+**Hurlstone, M. J.** (2020, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
 
-**Hurlstone, M. J.,** & Farrell, S. (2019, in preparation). Associative chaining is not necessary to explain sequence learning.
+**Hurlstone, M. J.,** & Farrell, S. (2020, in preparation). Associative chaining is not necessary to explain sequence learning.
 
-**Hurlstone, M. J.,** & Wang, S. (2018, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
+**Hurlstone, M. J.,** & Wang, S. (2020, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2018, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
+**Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2020, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
 
-**Hurlstone, M. J.,** & Farrell, S. (2018, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+**Hurlstone, M. J.,** & Farrell, S. (2020, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
-**Hurlstone, M. J.,** & Ecker, U. K. H., (2018, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
+**Hurlstone, M. J.,** & Ecker, U. K. H., (2020, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
 ## Peer Reviewed Manuscripts - submitted
 
-**Hurlstone, M. J.,** & Newell, B. R. (2019, submitted). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
+**Hurlstone, M. J.,** & Newell, B. R. (2020, in revision). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
 
-**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2019, submitted). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
+**Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2020, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
-**Hurlstone, M. J.** (2019, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
+**Hurlstone, M. J.** (2020, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
 
-**Hurlstone, M. J.** (2019, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
+**Hurlstone, M. J.** (2020, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
-Quinlan, P., & **Hurlstone, M. J.** (2018, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
+Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*.
 
-Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020, in press). Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates. *Journal of Neuropsychology*.
+Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates. *Journal of Neuropsychology*.
 
 **Hurlstone, M. J.** (2020). Serial recall. Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
 
-**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change.* [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
+**Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change, 60,* 1-10. [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
 
-Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine.* [[Supplementary Material](RHDL.19.Supp.pdf)]
+Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine, 224,* 23-27. [[Supplementary Material](RHDL.19.Supp.pdf)]
 
-Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods.* [Special issue on Using Big Data to Discover Principles of Cognition]. 
+Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods, 51,* 1766-1781. [Special issue on Using Big Data to Discover Principles of Cognition]. 
 
 Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement. *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
 
 Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Reducing demand for ineffective health remedies: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health.* 
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Reducing demand for ineffective health remedies: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health, 33,* 1472-1489. 
 
 <ul><a href="/MHE.18.P&H.SM.pdf">Supplemental Materials</a> for the above paper, which reports the results of a pilot study that preceeeded the main study reported in the published article.</ul>
 
