@@ -28,7 +28,7 @@ Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>
 
 ## Biography      
 
-I completed my undergraduate degree in Psychology at the University of Leicester before completing a Master's degree in Reading, Language, and Cognition followed by a PhD on short-term memory (supervisors: Graham Hitch and Alan Baddeley), both at the University of York. After post-doctoral stints at Cardiff University, working on auditory distraction (with Rob Hughes and Dylan Jones, 2011-2012), and The University of Western Australia (with Carmen Lawrence and Steve Lewandowksy, 2012-2014), working on climate change communication, I became a Lecturer at the University of Western Australia (2014-2020), where I now hold an Adjunct Lectureship. In July 2020, I will take up a Lectureship in the Department of Psychology at Lancaster University, UK.
+I completed my undergraduate degree in Psychology at the University of Leicester before completing a Master's degree in Reading, Language, and Cognition followed by a PhD on short-term memory (supervisors: Graham Hitch and Alan Baddeley), both at the University of York. After post-doctoral stints at Cardiff University, working on auditory distraction (with Rob Hughes and Dylan Jones, 2011-2012), and The University of Western Australia (with Carmen Lawrence and Steve Lewandowksy, 2012-2014), working on climate change communication, I became a Lecturer at The University of Western Australia (2014-2020), where I now hold an Adjunct Lectureship. In July 2020, I will take up a Lectureship in the Department of Psychology at Lancaster University.
 
 ## Research interests
 
