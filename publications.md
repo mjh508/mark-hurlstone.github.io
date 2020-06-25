@@ -57,7 +57,7 @@ MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering dema
 
 Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates. *Journal of Neuropsychology*.
 
-**Hurlstone, M. J.** (2020). Serial recall. Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+**Hurlstone, M. J.** (2020). [Serial recall.](H.20.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
 
