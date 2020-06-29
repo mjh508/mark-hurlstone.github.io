@@ -39,8 +39,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020, submitted). Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.
-
 **Hurlstone, M. J.,** & Newell, B. R. (2020, in revision). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2020, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
@@ -52,6 +50,8 @@ Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewando
 Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
+
+Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](Ecker.JEVP.2020.pdf) *Journal of Environmental Psychology*.
 
 **Hurlstone, M. J.** (2020, in press). [Serial recall.](H.20.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
