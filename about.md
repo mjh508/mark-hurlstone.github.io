@@ -23,7 +23,7 @@ Department of Psychology <br>
 Lancaster University <br>
 Lancaster <br>
 LA1 4YF <br>
-Email: <a href="mailto:mark.hurlstone@lancaster.ac.uk">mark.hurlstone@lancaster.ac.uk</a>
+Email: <a href="mailto:m.hurlstone@lancaster.ac.uk">m.hurlstone@lancaster.ac.uk</a>
 
 ## Biography      
 
