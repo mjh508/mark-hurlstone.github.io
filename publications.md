@@ -39,6 +39,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+MacFarlane, D., Tay, L.Q., Hurlstone, M. J., & Ecker, U. K. H. (2020, submitted) <a href="https://psyarxiv.com/q3mkd/">Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing</a>.
+
 MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, submitted). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. 
 
 **Hurlstone, M. J.,** & Newell, B. R. (2020, in revision). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
