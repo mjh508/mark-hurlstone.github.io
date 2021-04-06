@@ -61,17 +61,17 @@ MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). <a h
 
 **Hurlstone, M. J.** (2021, in press). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
-Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](Ecker.JEVP.2020.pdf) *Journal of Environmental Psychology*.
+Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](EBCHKL.20.JEP.pdf) *Journal of Environmental Psychology*.
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*. [[Supplementary Material](MHE.20.P&H.SM.pdf)]
 
-Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates. *Journal of Neuropsychology*.
+Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology*.
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change, 60,* 1-10. [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
 
-Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine, 224,* 23-27. [[Supplementary Material](RHDL.19.Supp.pdf)]
+Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.SS&M.pdf) *Social Science & Medicine, 224,* 23-27. [[Supplementary Material](RHDL.19.SS&M.Supp.pdf)]
 
 Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). [Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis.](ANHBFWP.19.BRM.pdf) *Behavior Research Methods, 51,* 1766-1781. [Special issue on Using Big Data to Discover Principles of Cognition]. 
 
