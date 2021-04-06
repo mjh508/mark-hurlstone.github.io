@@ -39,6 +39,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2021). Computational models of working memory for language. Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language* (Cambridge University Press).
+
 MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, submitted). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. 
 
 **Hurlstone, M. J.,** & Newell, B. R. (2020, in revision). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
@@ -52,6 +54,8 @@ MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S
 Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
+
+Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). Construal level theory and psychological distancing: Implications for grand environmental challenges. *One Earth.*
 
 MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). <a href="https://psyarxiv.com/q3mkd/">Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing</a>. *Journal of Applied Research in Memory and Cognition*.
 
