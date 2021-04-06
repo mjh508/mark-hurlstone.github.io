@@ -19,16 +19,15 @@ sidebar_sort_order: 1
 
 ## Contact details
 
-School of Psychology <br>
-University of Western Australia <br>
-35 Stirling Hwy <br>
-Crawley WA 6009 <br>
-Phone: +61 (0)8 6488 3249 <br>
-Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>
+Department of Psychology <br>
+Lancaster University <br>
+Lancaster <br>
+LA1 4YF <br>
+Email: <a href="mailto:m.hurlstone@lancaster.ac.uk">m.hurlstone@lancaster.ac.uk</a>
 
 ## Biography      
 
-<p> I completed my undergraduate degree in Psychology at the University of Leicester before completing a Master's degree in Reading, Language, and Cognition followed by a PhD on short-term memory (supervisors: Graham Hitch and Alan Baddeley), both at the University of York. After a brief post-doctoral stint at Cardiff University working on auditory distraction (with Rob Hughes and Dylan Jones), I moved to the University of Western Australia, where I am currently an Assistant Professor.</p>
+I completed my undergraduate degree in Psychology at the University of Leicester (2001-2004) before completing a Master's degree in Reading, Language, and Cognition (2005-2006) followed by a PhD on short-term memory (supervisors: Graham Hitch and Alan Baddeley, 2006-2010), both at the University of York. After post-doctoral stints at Cardiff University, working on auditory distraction (with Rob Hughes and Dylan Jones, 2011-2012), and The University of Western Australia (with Carmen Lawrence and Steve Lewandowsky, 2012-2014), working on climate change communication, I became a Lecturer at The University of Western Australia (2014-2020). In July 2020, I took up a Lectureship in the Department of Psychology at Lancaster University.
 
 ## Research interests
 
@@ -41,5 +40,3 @@ Email: <a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>
 *Human memory:* short-term and long-term memory; serial recall memory; free recall memory; sequence learning; relationship between time and memory.
 
 *Psychology and climate change:* using principles of cognitive and social psychology to facilitate the communication of climate science.
-
-<br/>

@@ -9,8 +9,8 @@ highlighter:      rouge
 
 # Setup
 title:            Mark Hurlstone
-tagline:          'A Jekyll theme'
-description:      'Adjunct Lecturer<p>University of Western Australia<p><a href="mailto:mark.hurlstone@uwa.edu.au">mark.hurlstone@uwa.edu.au</a>'
+tagline:          'Personal Website'
+description:      'Lecturer<p>Lancaster University<p><a href="mailto:m.hurlstone@lancaster.ac.uk">m.hurlstone@lancaster.ac.uk</a>'
 url:              http://mark-hurlstone.github
 baseurl:          /
 gems:             [jekyll-paginate]
