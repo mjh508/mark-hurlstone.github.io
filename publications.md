@@ -59,15 +59,15 @@ Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021).
 
 MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition*.
 
-**Hurlstone, M. J.** (2021, in press). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+**Hurlstone, M. J.** (2021). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
-Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](EBCHKL.20.JEP.pdf) *Journal of Environmental Psychology*.
+Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](EBCHKL.20.JEP.pdf) *Journal of Environmental Psychology, 70,* 101464.
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*. [[Supplementary Material](MHE.20.P&H.SM.pdf)]
 
-Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology*.
+Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology, 15(1),* 88-111.
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine.*
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine, 259,* 112790.
 
 **Hurlstone, M. J.,** Price, A., Wang, S., Leviston, Z., & Walker, I. (2020). [Activating the legacy motive mitigates intergenerational discounting in the climate game.](HPWLW.19.GEC.pdf) *Global Environmental Change, 60,* 1-10. [[Supplementary Material](HPWLW.19.GEC.Supp.pdf)]  [<a href="https://github.com/mark-hurlstone/Hurlstone-Price-Wang-Leviston-Walker-2019">GitHub Repository</a>]
 
@@ -79,15 +79,15 @@ Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019).
 
 **Hurlstone, M. J.,**  (2019). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](H.19.M.pdf) *Memory, 14,* 1-16.
 
-Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018, in press). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
+Xie, B., **Hurlstone, M. J.,** & Walker, I. (2018). [Correct me if I’m wrong: A group decision making intervention improves reasoning in the climate stabilization task.](XHW.18.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. [[Supplementary Material](XHW.18.FiP.Supp.pdf)]
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Reducing demand for ineffective health remedies: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health, 33,* 1472-1489. 
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018). [Reducing demand for ineffective health remedies: Overcoming the illusion of causality.](MHE.18.P&H.pdf) *Psychology & Health, 33,* 1472-1489. 
 
 <ul><a href="/MHE.18.P&H.SM.pdf">Supplemental Materials</a> for the above paper, which reports the results of a pilot study that preceeeded the main study reported in the published article.</ul>
  
 Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018). [Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck.](OLA.et.al.18b.PB.pdf) *Psychological Bulletin, 144(9),* 972-977.
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of short-term and working memory.](OLA.et.al.18a.PB.pdf) *Psychological Bulletin, 144(9),* 885-958.
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018). [Benchmarks for models of short-term and working memory.](OLA.et.al.18a.PB.pdf) *Psychological Bulletin, 144(9),* 885-958.
 
 Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018). [Emotions predict policy support: Why it matters how people feel about climate change.](WLHLW.18.GEC.pdf) *Global Environmental Change, 50,* 25-40.
 
