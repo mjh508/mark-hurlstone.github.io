@@ -105,17 +105,17 @@ Hartley, T., **Hurlstone, M. J.,** & Hitch, G. J. (2016). [Effects of rhythm on 
 
 <ul><a href="/HH.15.JEPLMC.Supp.pdf">Supplementary material</a> for the original submission of the above paper, which reports additional simulations of the  grouped condition of Experiment 3.</ul>
 
-**Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). The role of framing and normative messages in building support for climate policies. *PLoS ONE.* [[Data](/PLoS.ONE.14.Data.xlsx)] [[Supplementary Material](/HLNS.14.PLoS.ONE.Supp.pdf)]
+**Hurlstone, M. J.,** Lewandowsky, S., Sewell, B., & Newell, B. (2014). [The role of framing and normative messages in building support for climate policies.](HLNS.14.PLoS.ONE.pdf) *PLoS ONE.* [[Data](/PLoS.ONE.14.Data.xlsx)] [[Supplementary Material](/HLNS.14.PLoS.ONE.Supp.pdf)]
 
-**Hurlstone, M. J.,** Hitch, G. J., & Baddeley, A. D. (2014). Memory for serial order across domains: An overview of the literature and directions for future research. *Psychological Bulletin, 140,* 339-373.
+**Hurlstone, M. J.,** Hitch, G. J., & Baddeley, A. D. (2014). [Memory for serial order across domains: An overview of the literature and directions for future research.](HHB.14.PB.pdf) *Psychological Bulletin, 140,* 339-373.
 
-Unsworth, K. L., Russell, S. V., Lewandowsky, S., Lawrence, C., Fielding, K., Heath, J., Evans, A., **Hurlstone, M. J.,** & McNeill, I. (2013). Individual adaptation to climate change and psychological drivers: What about me? Factors affecting individual adaptive coping capacity across different population. *National Climate Change Adaptation Research Facility.*
+Unsworth, K. L., Russell, S. V., Lewandowsky, S., Lawrence, C., Fielding, K., Heath, J., Evans, A., **Hurlstone, M. J.,** & McNeill, I. (2013). [Individual adaptation to climate change and psychological drivers: What about me? Factors affecting individual adaptive coping capacity across different population.](URLLFHEHM.13.NCCARF.pdf) *National Climate Change Adaptation Research Facility.*
 
-Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). Sequential dependencies in recall of sequences: Filling in the blanks. *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">GitHub Repository</a>]
+Farrell, S., **Hurlstone, M. J.,** & Lewandowsky, S. (2013). [Sequential dependencies in recall of sequences: Filling in the blanks.](FHL.13.MC.pdf) *Memory & Cognition, 41,* 938-952. [<a href="https://github.com/psy-farrell/farrell-lewan-hurlstone-13">GitHub Repository</a>]
 
-Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism. *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
+Hughes, R., **Hurlstone, M. J.,** Marsh, J. E., Vachon, F., & Jones, D. M. (2013). [Cognitive control of auditory distraction: Impact of task difficulty, foreknowledge, and working memory capacity supports duplex-mechanism.](HHMVJ.13.JEPHPP.pdf) *Journal of Experimental Psychology: Human Perception and Performance, 39,* 539-553.
 
-Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction. In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
+Hughes, R., Vachon, F., **Hurlstone, M. J.,** Marsh, J., Macken, W., & Jones, D. M. (2011). [Disruption of cognitive performance by sound: Differentiating two forms of auditory distraction.](HVHMMJ.11.ICBEN.pdf) In *Proceedings of the 10th International Congress on Noise as a Public Health Problem.*
 
 ## Online Pieces
 
