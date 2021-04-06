@@ -85,13 +85,13 @@ MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2018, in press). [Reduc
 
 <ul><a href="/MHE.18.P&H.SM.pdf">Supplemental Materials</a> for the above paper, which reports the results of a pilot study that preceeeded the main study reported in the published article.</ul>
  
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018). Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck. *Psychological Bulletin, 144(9),* 972-977.
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018). [Benchmarks provide common ground for model development: Response to the commentaries of Logie and Vandierendonck.](OLA.et.al.18b.PB.pdf) *Psychological Bulletin, 144(9),* 972-977.
 
-Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). Benchmarks for models of short-term and working memory. *Psychological Bulletin, 144(9),* 885-958.
+Oberauer, K., Lewandowsky, S., Awh, E., Brown, G. D. A., Conway, A., Cowan, N., Donkin, C., Farrell, S., Hitch, G. J., **Hurlstone, M. J.,** Ma, Wei-Ji, Morey, C., Nee, D. E., Rouder, J., Schweppe, J., Vergauwe, E., & Ward, G. (2018, in press). [Benchmarks for models of short-term and working memory.](OLA.et.al.18a.PB.pdf) *Psychological Bulletin, 144(9),* 885-958.
 
-Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018). Emotions predict policy support: Why it matters how people feel about climate change. *Global Environmental Change, 50,* 25-40.
+Wang, S., Leviston, Z., **Hurlstone, M. J.,** Lawrence, C., & Walker, I. (2018). [Emotions predict policy support: Why it matters how people feel about climate change.](WLHLW.18.GEC.pdf) *Global Environmental Change, 50,* 25-40.
 
-**Hurlstone, M. J.,** & Hitch, G. J. (2018). <a href="/HH.17.Re-Sub.pdf">How is the serial order of a visual sequence represented? Insights from transposition latencies.</a> *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>] [<a href="https://github.com/mark-hurlstone/Hurlstone-and-Hitch-2018-JEP-LMC">GitHub Repository</a>]
+**Hurlstone, M. J.,** & Hitch, G. J. (2018). [How is the serial order of a visual sequence represented? Insights from transposition latencies.](HH.18.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory, and Cognition, 44(2),* 167-192. [<a href="/HH.17.ISM.Re-Sub.pdf">Integral Supplemental Materials</a>] [<a href="https://github.com/mark-hurlstone/Hurlstone-and-Hitch-2018-JEP-LMC">GitHub Repository</a>]
 
 <ul><a href="/HH.17.Orig.pdf">Original submission</a> of the above paper, which reports fits of the models to the individual participant data of Experiments 2 and 3 using an approximate maximum-likelihood approach.</ul>
 
