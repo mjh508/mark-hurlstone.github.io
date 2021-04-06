@@ -57,7 +57,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effec
 
 Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). Construal level theory and psychological distancing: Implications for grand environmental challenges. *One Earth.*
 
-MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). <a href="https://psyarxiv.com/q3mkd/">Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing</a>. *Journal of Applied Research in Memory and Cognition*.
+MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition*.
 
 **Hurlstone, M. J.** (2021, in press). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
