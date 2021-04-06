@@ -73,9 +73,9 @@ MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting cons
 
 Rossen, I., **Hurlstone, M. J.,** Dunlop, P. D., & Lawrence, C.   (2019). [Accepters, fence sitters, or rejecters: Moral profiles of vaccination attitudes.](RHDL.19.pdf) *Social Science & Medicine, 224,* 23-27. [[Supplementary Material](RHDL.19.Supp.pdf)]
 
-Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis. *Behavior Research Methods, 51,* 1766-1781. [Special issue on Using Big Data to Discover Principles of Cognition]. 
+Andreotta, M., Nugroho, R., **Hurlstone, M. J.,** Boschetti, F., Farrell, S., Walker, I., & Paris, C. (2019). [Analyzing social media data: A mixed-methods framework combining computational and qualitative text analysis.](ANHBFWP.19.BRM.pdf) *Behavior Research Methods, 51,* 1766-1781. [Special issue on Using Big Data to Discover Principles of Cognition]. 
 
-Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019). Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement. *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
+Wang, S., **Hurlstone, M. J.,** Lawrence, C., Leviston, Z., & Walker, I. (2019). [Climate change from a distance: Psychological distance and construal level as predictors of pro-environmental engagement.](WHLWL.19.FiP.pdf) *Frontiers in Psychology.* [Special issue on the Cognitive Psychology of Climate Change]. 
 
 **Hurlstone, M. J.,**  (2019). [Functional similarities and differences between the coding of positional information in verbal and spatial short-term memory.](H.19.M.pdf) *Memory, 14,* 1-16.
 
