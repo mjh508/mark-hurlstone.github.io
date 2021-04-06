@@ -15,7 +15,7 @@ sidebar_sort_order: 7
   gtag('config', 'UA-127807240-1');
 </script>
 
-## PSYC3302 Psychological Measurement and its Applications
+## PSYC3302 Psychological Measurement and its Applications 
 This unit introduces students to the theoretical and practical underpinnings of psychological measurement. Topics covered include the theoretical and empirical bases of reliability and validity, classical and contemporary approaches to reliability and validity, test biases, responses biases, item response theory, and applications of psychological measurement to intelligence and personality assessment. Teaching is by lectures (12×2 hours) and laboratory classes (12×2 hours). Evaluation is by laboratory report (25%), SPSS Lab Exam (25%), and final exam (50%). 
 
 ### Lectures
