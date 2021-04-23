@@ -55,7 +55,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effec
 
 ## Peer Reviewed Manuscripts - published
 
-Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). Construal level theory and psychological distancing: Implications for grand environmental challenges. *One Earth.*
+Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). [Construal level theory and psychological distancing: Implications for grand environmental challenges.](WHLWL.21.OneEarth.pdf) *One Earth.*
 
 MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition*.
 
