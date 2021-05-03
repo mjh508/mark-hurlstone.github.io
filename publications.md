@@ -59,13 +59,13 @@ Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021).
 
 MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition*.
 
+Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2021). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology, 15(1),* 88-111.
+
 **Hurlstone, M. J.** (2021). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](EBCHKL.20.JEP.pdf) *Journal of Environmental Psychology, 70,* 101464.
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*. [[Supplementary Material](MHE.20.P&H.SM.pdf)]
-
-Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2020). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology, 15(1),* 88-111.
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine, 259,* 112790.
 
