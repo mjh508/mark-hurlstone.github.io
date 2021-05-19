@@ -41,12 +41,6 @@ Please see copyright notice at bottom of page.
 
 Andreotta, M., Boschetti, F., Paris, C., Walker, I., Farrell, S., & **Hurlstone, M. J.** (2021). Evidence for three distinct climate change audience segments with varying belief updating tendencies. Implications for climate change communication.
 
-Cavve, B. S., **Hurlstone, M. J., & Farrell, S. (2021, in preparation). Differentiating social preferences for equality and status. 
-
-Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2021, re-submitted). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
-
-Osth, A. F., & **Hurlstone, M. J.** (2021). Do item-based context representations underlie serial order in cognition? Commentary on Logan (2021).
-
 MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, submitted). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. 
 
 **Hurlstone, M. J.,** & Newell, B. R. (2020, in revision). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
@@ -60,6 +54,8 @@ MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S
 Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
+
+Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2021, re-submitted). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
 
 Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). [Construal level theory and psychological distancing: Implications for grand environmental challenges.](WHLWL.21.OneEarth.pdf) *One Earth.*
 
