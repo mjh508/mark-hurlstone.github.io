@@ -39,7 +39,13 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+Andreotta, M., Boschetti, F., Paris, C., Walker, I., Farrell, S., & **Hurlstone, M. J.** (2021). Evidence for three distinct climate change audience segments with varying belief updating tendencies. Implications for climate change communication.
+
+Cavve, B. S., **Hurlstone, M. J., & Farrell, S. (2021, in preparation). Differentiating social preferences for equality and status. 
+
 Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2021, re-submitted). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
+
+Osth, A. F., & **Hurlstone, M. J.** (2021). Do item-based context representations underlie serial order in cognition? Commentary on Logan (2021).
 
 MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, submitted). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. 
 
