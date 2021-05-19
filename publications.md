@@ -55,7 +55,7 @@ Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effec
 
 ## Peer Reviewed Manuscripts - published
 
-Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2021, re-submitted). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
+Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022, in press). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
 
 Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). [Construal level theory and psychological distancing: Implications for grand environmental challenges.](WHLWL.21.OneEarth.pdf) *One Earth.*
 
