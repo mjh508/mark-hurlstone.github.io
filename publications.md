@@ -57,13 +57,13 @@ Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effec
 
 Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022, in press). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
 
+**Hurlstone, M. J.** (2021). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+
 Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). [Construal level theory and psychological distancing: Implications for grand environmental challenges.](WHLWL.21.OneEarth.pdf) *One Earth.*
 
 MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition*.
 
 Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2021). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology, 15(1),* 88-111.
-
-**Hurlstone, M. J.** (2021). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](EBCHKL.20.JEP.pdf) *Journal of Environmental Psychology, 70,* 101464.
 
