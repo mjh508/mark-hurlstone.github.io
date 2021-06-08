@@ -39,6 +39,9 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2021). 
+<a href="https://psyarxiv.com/48zqn/">A comparison of prebunking and debunking interventions for implied versus explicit misinformation.</a>
+
 Andreotta, M., Boschetti, F., Paris, C., Walker, I., Farrell, S., & **Hurlstone, M. J.** (2021). Evidence for three distinct climate change audience segments with varying belief updating tendencies. Implications for climate change communication.
 
 MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, submitted). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. 
@@ -50,8 +53,6 @@ MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S
 **Hurlstone, M. J.** (2020, in preparation). Modelling error patterns in verbal and spatial serial recall: Constraints for theories of short-term order memory. 
 
 **Hurlstone, M. J.** (2020, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
-
-Quinlan, P., & **Hurlstone, M. J.** (2020, in revision). Semantic chunking effects in verbal short-term memory: Constraints for resource models of item storage.
 
 ## Peer Reviewed Manuscripts - published
 
