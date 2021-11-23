@@ -39,6 +39,8 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
+Osth, A. F., & **Hurlstone, M. J.** (2021). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.pdf) [[Supplementary Material](O&H.21.Supp.pdf)]
+
 Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2021). 
 <a href="https://psyarxiv.com/48zqn/">A comparison of prebunking and debunking interventions for implied versus explicit misinformation.</a>
 
