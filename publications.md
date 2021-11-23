@@ -39,8 +39,6 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - submitted
 
-Osth, A. F., & **Hurlstone, M. J.** (2021). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.pdf) [[Supplementary Material](O&H.21.Supp.pdf)]
-
 Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2021). 
 <a href="https://psyarxiv.com/48zqn/">A comparison of prebunking and debunking interventions for implied versus explicit misinformation.</a>
 
@@ -55,6 +53,8 @@ MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S
 **Hurlstone, M. J.** (2020, in revision). [Modelling spatial immediate serial recall performance in a macaque (*Macaca mulatta*): A competitive queuing approach.](H.18.InRev.pdf)
 
 ## Peer Reviewed Manuscripts - published
+
+Osth, A. F., & **Hurlstone, M. J.** (2021, in press). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.pdf) *Psychological Review.* [[Supplementary Material](O&H.21.Supp.pdf)]
 
 Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022, in press). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
 
