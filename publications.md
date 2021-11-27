@@ -54,9 +54,9 @@ MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S
 
 ## Peer Reviewed Manuscripts - published
 
-Osth, A. F., & **Hurlstone, M. J.** (2021, in press). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.pdf) *Psychological Review.* [[Supplementary Material](O&H.21.Supp.pdf)]
-
 Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022, in press). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
+
+Osth, A. F., & **Hurlstone, M. J.** (2021, in press). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.pdf) *Psychological Review.* [[Supplementary Material](O&H.21.Supp.pdf)]
 
 **Hurlstone, M. J.** (2021). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
