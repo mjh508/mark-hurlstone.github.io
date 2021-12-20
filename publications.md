@@ -51,7 +51,7 @@ Please see copyright notice at bottom of page.
 
 Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022, in press). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
 
-MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, in press). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>.
+MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2020, in press). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. *Conservation Science and Practice.*
 
 Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2021, in press). 
 <a href="https://psyarxiv.com/48zqn/">A comparison of prebunking and debunking interventions for implied versus explicit misinformation.</a> *British Journal of Psychology.*
