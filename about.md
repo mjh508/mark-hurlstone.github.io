@@ -17,7 +17,7 @@ sidebar_sort_order: 1
 
 <!-- <img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone"> -->
 
-<img src="Mark%20Hurlstone.jpg" alt="drawing" width="200"/>
+<img src="Mark%20Hurlstone.jpg" alt="drawing" width="100"/>
 
 ## Contact details
 
