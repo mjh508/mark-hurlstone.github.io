@@ -16,7 +16,7 @@ sidebar_sort_order: 2
 </script>
 
 <p> <a href="https://people.csiro.au/B/F/Fabio-Boschetti">Fabio Boschetti</a> CSIRO and University of Western Australia </p>
-<p> <a href="https://research-repository.uwa.edu.au/en/persons/patrick-dunlop">Patrick Dunlop</a> University of Western Australia </p>
+<p> <a href="https://staffportal.curtin.edu.au/staff/profile/view/patrick-dunlop-b58228a2/">Patrick Dunlop</a> Curtin University </p>
 <p> <a href="https://www.emc-lab.org">Ullrich Ecker</a> University of Western Australia </p>
 <p> <a href="http://psy-farrell.github.io">Simon Farrell</a> University of Western Australia </p>
 <p> <a href="http://www.york.ac.uk/psychology/staff/faculty/th512/">Tom Hartley</a> University of York </p>
