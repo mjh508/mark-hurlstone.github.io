@@ -21,21 +21,21 @@ Please see copyright notice at bottom of page.
 
 ## Peer Reviewed Manuscripts - in preparation
 
-**Hurlstone, M. J.** (2020, in preparation). Modelling response times in serial recall: A competitive queuing approach.
+**Hurlstone, M. J.** (2022, in preparation). Modelling response times in serial recall: A competitive queuing approach.
 
-**Hurlstone, M. J.** (2020, in preparation). Reappraising the evidence against time-based accounts of serial recall.
+**Hurlstone, M. J.** (2022, in preparation). Reappraising the evidence against time-based accounts of serial recall.
 
-**Hurlstone, M. J.** (2020, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
+**Hurlstone, M. J.** (2022, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
 
-**Hurlstone, M. J.,** & Farrell, S. (2020, in preparation). Associative chaining is not necessary to explain sequence learning.
+**Hurlstone, M. J.,** & Farrell, S. (2022, in preparation). Associative chaining is not necessary to explain sequence learning.
 
-**Hurlstone, M. J.,** & Wang, S. (2020, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
+**Hurlstone, M. J.,** & Wang, S. (2022, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
 
-**Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2020, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
+**Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2022, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
 
-**Hurlstone, M. J.,** & Farrell, S. (2020, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
+**Hurlstone, M. J.,** & Farrell, S. (2022, in preparation). Modelling sequential dependencies in serial recall: Constraints for theories of serial order memory.
 
-**Hurlstone, M. J.,** & Ecker, U. K. H., (2020, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
+**Hurlstone, M. J.,** & Ecker, U. K. H., (2022, in preparation). Scientific certainty argumentation methods (SCAMs) and climate change: Exposing SCAMs shields against climate change misinformation.
 
 ## Peer Reviewed Manuscripts - submitted
 
