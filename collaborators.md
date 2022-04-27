@@ -28,6 +28,7 @@ sidebar_sort_order: 2
 <p> <a href="https://www.ecu.edu.au/schools/arts-and-humanities/staff/profiles/post-doctoral-research-fellow/dr-zoe-leviston">Zoe Leviston</a> Edith Cowan University </p>
 <p> <a href="https://www.uclan.ac.uk/staff_profiles/dr_john_everett_marsh.php">John Marsh</a> University of Central Lancashire </p>
 <p> <a href="http://www2.psy.unsw.edu.au/Users/BNewell/">Ben Newell</a> University of New South Wales </p>
+<p> <a href="https://adamosth.com">Adam Osth</a> University of Melbourne </p>
 <p> <a href="https://www.lancaster.ac.uk/people-profiles/john-towse">John Towse</a> Lancaster University </p>
 <p> <a href="https://psychology.anu.edu.au/people/academics/professor-iain-walker">Iain Walker</a> Australian National University </p>
 <p> <a href="https://www.researchgate.net/profile/Belinda_Xie">Belinda Xie</a> University of New South Wales </p>

@@ -15,6 +15,8 @@ sidebar_sort_order: 7
   gtag('config', 'UA-127807240-1');
 </script>
 
+# Legacy Teaching
+
 ## PSYC3302 Psychological Measurement and its Applications 
 This unit introduces students to the theoretical and practical underpinnings of psychological measurement. Topics covered include the theoretical and empirical bases of reliability and validity, classical and contemporary approaches to reliability and validity, test biases, responses biases, item response theory, and applications of psychological measurement to intelligence and personality assessment. Teaching is by lectures (12×2 hours) and laboratory classes (12×2 hours). Evaluation is by laboratory report (25%), SPSS Lab Exam (25%), and final exam (50%). 
 
@@ -48,3 +50,35 @@ This unit focuses on providing students with the opportunity to learn about and 
 
 ## PSYC2212/3312 Psychology and Social Behaviour
 This unit examines the factors that influence psychological functioning in a social environment. The unit considers some of the latest theories, research and applications in areas such as attitudes, stereotyping and prejudice, relationships, altruism and social groups. Teaching is by seminars (13×2 hours) and laboratory classes (5×2 hours). Evaluation is by laboratory class participation (10%), two laboratory reports (20% each), and final exam (50%). I deliver a guest lecture and laboratory class on the [Behavioural Economics of Social Preferences](Social.Preferences.pdf).
+
+# Current Teaching
+
+## PSYC201 Cognitive Psychology
+
+1. Cognitive Psychology of Misinformation
+2. Cognitive Psychology of Climate Change
+3. Short-Term Memory for Serial Order
+4. Theories of Serial Order
+5. Free recall and Memory Search
+6. Models of Free Recall
+7. Standard Economic Model 
+8. Prospect Theory and Preference Reversals
+9. Judgemental Heuristics and Biases
+10. Two Systems of Judgement and Decision Making?  
+
+## PSYC204 Experimental Research Methods
+
+1. Experimental Research Design
+2. Between-Participants Designs
+3. Within-Participants Designs
+4. Factorial Designs
+
+## PSYC214 Statistics for Group Comparisons
+
+1. [Introduction to Factorial Designs and Interactions](Week 6. Introduciton To Factorial Designs and Interactions.pdf) [[Lab](Lab 1.pdf)]
+2. [Two-Factor Between-Participants ANOVA](Week 7. Two-Factor Between-Participants ANOVA.pdf) [[Lab](Lab 2.pdf)]
+3. [Two-Factor Mixed and Within-Participants ANOVA](Week 8. Two-Factor Mixed and Within-Participants ANOVA.pdf) [[Lab](Lab 3.pdf)]
+4. [Three-Factor ANOVA](Week 9. Three-Factor ANOVA.pdf) [[Lab](Lab 4.pdf)]
+
+
+## PSYC481 Psychological Aspects of Advertising
