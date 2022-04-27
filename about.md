@@ -17,7 +17,7 @@ sidebar_sort_order: 1
 
 <!-- <img class="right" src="{{ site.baseurl }}public/mark.jpg"alt="" title="Mark Hurlstone"> -->
 
-![title](file:///Users/00078816/Desktop/Mark%20Hurlstone.jpg)
+![title](Mark%20Hurlstone.jpg)
 
 ## Contact details
 
