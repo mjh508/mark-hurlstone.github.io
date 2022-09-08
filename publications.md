@@ -41,8 +41,6 @@ Please see copyright notice at bottom of page.
 
 Andreotta, M., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2022, resubmitted). Evidence for three distinct climate change audience segments with varying belief updating tendencies: Implications for climate change communication.
 
-**Hurlstone, M. J.,** & Newell, B. R. (2022, in revision). [Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.](HN.19.pdf) [[Supplementary Material](HN.19.Supp.pdf)] [<a href="https://github.com/mark-hurlstone/Hurlstone-Newell-2019">GitHub Repository</a>]
-
 Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall. 
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2022, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
