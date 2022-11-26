@@ -55,16 +55,16 @@ This unit examines the factors that influence psychological functioning in a soc
 
 ## PSYC201 Cognitive Psychology
 
-1. Cognitive Psychology of Misinformation
-2. Cognitive Psychology of Climate Change
-3. Short-Term Memory for Serial Order
-4. Theories of Serial Order
-5. Free recall and Memory Search
-6. Models of Free Recall
-7. Standard Economic Model 
-8. Prospect Theory and Preference Reversals
-9. Judgemental Heuristics and Biases
-10. Two Systems of Judgement and Decision Making?  
+1. Week 6a: [Cognitive Psychology of Misinformation](Week 6a. Cognitive Psychology of Misinformation.pdf)
+2. Week 6b: [Cognitive Psychology of Climate Change](Week 6b. Cognitive Psychology of Climate Change.pdf)
+3. Week 7a: [Short-Term Memory for Serial Order](Week 7a. Short-Term Memory for Serial Order.pdf)
+4. Week 7b: [Theories of Serial Order](Week 7b. Theories of Serial Order.pdf)
+5. Week 8a: [Free recall and Memory Search](Week 8a. Free recall and Memory Search.pdf)
+6. Week 8b: [Models of Free Recall](Week 8b. Models of Free Recall.pdf)
+7. Week 9a: [Standard Economic Model](Week 9a. Standard Economic Model.pdf) 
+8. Week 9b: [Prospect Theory and Preference Reversals](Week 9b. Prospect Theory and Preference Reversals.pdf)
+9. Week 10a: [Judgemental Heuristics and Biases](Week 10a. Judgemental Heuristics and Biases.pdf)
+10. Week 10b: [Two Systems of Judgement and Decision Making?](Week 10b. Two Systems of Judgement and Decision Making?.pdf)  
 
 ## PSYC204 Experimental Research Methods
 
