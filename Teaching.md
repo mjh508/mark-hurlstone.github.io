@@ -64,7 +64,7 @@ This unit examines the factors that influence psychological functioning in a soc
 7. Week 9a: [Standard Economic Model](Week 9a. Standard Economic Model.pdf) 
 8. Week 9b: [Prospect Theory and Preference Reversals](Week 9b. Prospect Theory and Preference Reversals.pdf)
 9. Week 10a: [Judgemental Heuristics and Biases](Week 10a. Judgemental Heuristics and Biases.pdf)
-10. Week 10b: [Two Systems of Judgement and Decision Making?](Week 10b. Two Systems of Judgement and Decision Making?.pdf)  
+10. Week 10b: [Two Systems of Judgement and Decision Making?](Week 10b. Two Systems of Judgement and Decision Making.pdf)  
 
 ## PSYC204 Experimental Research Methods
 
