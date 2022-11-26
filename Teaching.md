@@ -68,10 +68,10 @@ This unit examines the factors that influence psychological functioning in a soc
 
 ## PSYC204 Experimental Research Methods
 
-1. Experimental Research Design
-2. Between-Participants Designs
-3. Within-Participants Designs
-4. Factorial Designs
+1. Week 1: [Experimental Research Design](Week 1. Experimental Research Strategy.pdf)  
+2. Week 2: [Between-Participants Designs](Week 2. Between-Participants Designs.pdf)  
+3. Week 3: [Within-Participants Designs](Week 3. Within-Participants Designs.pdf)  
+4. Week 4: [Factorial Designs](Week 4. Factorial Designs.pdf)  
 
 ## PSYC214 Statistics for Group Comparisons
 
@@ -82,3 +82,5 @@ This unit examines the factors that influence psychological functioning in a soc
 
 
 ## PSYC481 Psychological Aspects of Advertising
+
+1. 
