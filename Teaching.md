@@ -75,10 +75,10 @@ This unit examines the factors that influence psychological functioning in a soc
 
 ## PSYC214 Statistics for Group Comparisons
 
-1. [Introduction to Factorial Designs and Interactions](Week 6. Introduciton To Factorial Designs and Interactions.pdf) [[Lab](Lab 1.pdf)]
-2. [Two-Factor Between-Participants ANOVA](Week 7. Two-Factor Between-Participants ANOVA.pdf) [[Lab](Lab 2.pdf)]
-3. [Two-Factor Mixed and Within-Participants ANOVA](Week 8. Two-Factor Mixed and Within-Participants ANOVA.pdf) [[Lab](Lab 3.pdf)]
-4. [Three-Factor ANOVA](Week 9. Three-Factor ANOVA.pdf) [[Lab](Lab 4.pdf)]
+1. Week 6: [Introduction to Factorial Designs and Interactions](Week 6. Introduciton To Factorial Designs and Interactions.pdf) [[Lab](Lab 1.pdf)]
+2. Week 7: [Two-Factor Between-Participants ANOVA](Week 7. Two-Factor Between-Participants ANOVA.pdf) [[Lab](Lab 2.pdf)]
+3. Week 8: [Two-Factor Mixed and Within-Participants ANOVA](Week 8. Two-Factor Mixed and Within-Participants ANOVA.pdf) [[Lab](Lab 3.pdf)]
+4. Week 9: [Three-Factor ANOVA](Week 9. Three-Factor ANOVA.pdf) [[Lab](Lab 4.pdf)]
 
 
 ## PSYC481 Psychological Aspects of Advertising
