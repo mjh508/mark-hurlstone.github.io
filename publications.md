@@ -55,7 +55,7 @@ Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022). [Computational models 
 
 MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2022). [Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science.](MHE.22.CS&P.pdf) *Conservation Science and Practice, 4(3),* e627.
 
-Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2022). [A comparison of prebunking and debunking interventions for implied versus explicit misinformation.](THKE.22.BJP) *British Journal of Psychology, 113(3),* 591-607.
+Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2022). [A comparison of prebunking and debunking interventions for implied versus explicit misinformation.](THKE.22.BJP.pdf) *British Journal of Psychology, 113(3),* 591-607.
 
 Osth, A. F., & **Hurlstone, M. J.** (2021, in press). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.PR.pdf) *Psychological Review.* [[Supplementary Material](O&H.21.Supp.pdf)]
 
