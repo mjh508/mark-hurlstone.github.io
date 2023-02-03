@@ -49,28 +49,27 @@ Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vacho
 
 ## Peer Reviewed Manuscripts - published
 
-Andreotta, M., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2022, in press). [Evidence for three distinct climate change audience segments with varying belief updating tendencies: Implications for climate change communication.](ABFPWH.22.CC.pdf) *Climatic Change.*
+Andreotta, M., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2022). [Evidence for three distinct climate change audience segments with varying belief updating tendencies: Implications for climate change communication.](ABFPWH.22.CC.pdf) *Climatic Change, 174(32),* 1-29.
 
-Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022, in press). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
+Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
 
-MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2021, in press). <a href="https://osf.io/8935b/">Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science</a>. *Conservation Science and Practice.*
+MacFarlane, D., **Hurlstone, M. J.,** Ecker, U. K. H., Ferraro, P. J., Linden, S., Veríssimo, D., … Sutherland, W. J. (2022). [Reducing Demand for Overexploited Wildlife Products: Lessons from Systematic Reviews from Outside Conservation Science.](MHE.22.CS&P.pdf) *Conservation Science and Practice, 4(3),* e627.
 
-Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2021, in press). 
-<a href="https://psyarxiv.com/48zqn/">A comparison of prebunking and debunking interventions for implied versus explicit misinformation.</a> *British Journal of Psychology.*
+Tay, L. Q., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. (2022). [A comparison of prebunking and debunking interventions for implied versus explicit misinformation.](THKE.22.BJP) *British Journal of Psychology, 113(3),* 591-607.
 
-Osth, A. F., & **Hurlstone, M. J.** (2021, in press). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.pdf) *Psychological Review.* [[Supplementary Material](O&H.21.Supp.pdf)]
+Osth, A. F., & **Hurlstone, M. J.** (2021, in press). [Do item-dependent context representations underlie serial order in cognition? Commentary on Logan (2021).](O&H.21.PR.pdf) *Psychological Review.* [[Supplementary Material](O&H.21.Supp.pdf)]
 
 **Hurlstone, M. J.** (2021). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
-Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). [Construal level theory and psychological distancing: Implications for grand environmental challenges.](WHLWL.21.OneEarth.pdf) *One Earth.*
+Wang, S., **Hurlstone, M. J.,** Leviston, Z., Walker, I., & Lawrence, C. (2021). [Construal level theory and psychological distancing: Implications for grand environmental challenges.](WHLWL.21.OneEarth.pdf) *One Earth, 4(4),* 482-486.
 
-MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition*.
+MacFarlane, D., Tay, L. Q., **Hurlstone, M. J.,** & Ecker, U. K. H. (2021). [Refuting Spurious COVID-19 Treatment Claims Reduces Demand and Misinformation Sharing.](MLHE.21.JARMAC.pdf) *Journal of Applied Research in Memory and Cognition, 10(2),* 248-258.
 
 Bezdicek, O., Ballarini, T., Albrecht, F., Libon, D. J., Lamar, M., Ruzika, F., Roth, J., **Hurlstone, M. J.,** Mueller, K., Schroeter, M., & Jech, R. (2021). [Serial order recall in working memory across the cognitive spectrum of Parkinson’s disease and neuroimaging correlates.](BBA.et.al.20.JoN.pdf) *Journal of Neuropsychology, 15(1),* 88-111.
 
 Ecker, U. K. H., Butler, L., Cook, J., **Hurlstone, M. J.,** Kurz, T., & Lewandowsky, S. (2020). [Using the COVID-19 economic crisis to frame climate change as a secondary issue reduces mitigation support.](EBCHKL.20.JEP.pdf) *Journal of Environmental Psychology, 70,* 101464.
 
-MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health*. [[Supplementary Material](MHE.20.P&H.SM.pdf)]
+MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Countering demand for unsupported health remedies: Do consumers respond to risks, lack of benefits, or both?](MHE.20.P&H.pdf) *Psychology & Health, 36(5),* 593-611. [[Supplementary Material](MHE.20.P&H.SM.pdf)]
 
 MacFarlane, D., **Hurlstone, M. J.,** & Ecker, U. K. H. (2020). [Protecting consumers from fraudulent health claims: A taxonomy of psychological drivers, interventions, barriers, and treatments.](MHE.20.SS&M.pdf) *Social Science & Medicine, 259,* 112790.
 
