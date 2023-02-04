@@ -18,8 +18,8 @@ sidebar_sort_order: 3
 # PhD students
 
 ## Completed
-Susie Wang (with Carmen Lawrence, Zoe Leviston, and Iain Walker) 
-Douglas MacFarlane (with Ullrich Ecker)
+Susie Wang (with Carmen Lawrence, Zoe Leviston, and Iain Walker) <br> 
+Douglas MacFarlane (with Ullrich Ecker) <br>
 Matthew Andreotta (with Fabio Boschetti, Cecile Paris, Simon Farrell, and Iain Walker) <br>
 Georgiana Cheuck (with Simon Farrell) <br>
 <br>
