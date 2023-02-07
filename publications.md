@@ -27,8 +27,6 @@ Please see copyright notice at bottom of page.
 
 **Hurlstone, M. J.** (2022, in preparation) Organisational factors in spatial free recall: Interaction of temporal and spatial clustering.
 
-**Hurlstone, M. J.,** & Farrell, S. (2022, in preparation). Associative chaining is not necessary to explain sequence learning.
-
 **Hurlstone, M. J.,** & Wang, S. (2022, in preparation). Leadership attenuates, but does not eliminate, intergenerational discounting in the climate game.
 
 **Hurlstone, M. J.,** White, B., & Tapsuwan, S. (2022, in preparation). The biosecurity game: A cooperation game for simulating the prevention of invasive pests.
@@ -40,6 +38,8 @@ Please see copyright notice at bottom of page.
 ## Peer Reviewed Manuscripts - submitted
 
 Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall. 
+
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2022). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2022, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
