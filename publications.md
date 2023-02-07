@@ -39,7 +39,7 @@ Please see copyright notice at bottom of page.
 
 Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall. 
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2022). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2022, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2022, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
