@@ -51,6 +51,8 @@ Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vacho
 
 **Hurlstone, M. J.** (2023, in press). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
+Tay, L. Q., Lewandowsky, S., **Hurlstone, M. H.,** Kurz, T., & Ecker, U. K. H. (2023). [A focus shift in the evaluation of misinformation interventions.](tay.2023.hksmrpp.pdf) *Harvard Kennedy School Misinformation Review*.
+
 Andreotta, M., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2022). [Evidence for three distinct climate change audience segments with varying belief updating tendencies: Implications for climate change communication.](ABFPWH.22.CC.pdf) *Climatic Change, 174(32),* 1-29.
 
 Hitch, G. J., **Hurlstone, M. J.,** & Hartley, T. (2022). [Computational models of working memory for language.](HHH.22.CHWM&L.pdf) Invited book chapter contribution to Schwieter, J. W., & Zhisheng, W. *The Cambridge Handbook of Working Memory and Language.* Cambridge University Press.
