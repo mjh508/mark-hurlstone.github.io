@@ -39,7 +39,7 @@ Please see copyright notice at bottom of page.
 
 Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vachon, F., Schlittmeier, S. J., Roer, J. P., Buchner, A., & Bell, R. (2022, in revision). Changing-state irrelevant speech disrupts visual-verbal but not visual-spatial serial recall. 
 
-**Hurlstone, M. J.,** White, B., & Newell, B. R. (2022, submitted). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
+**Hurlstone, M. J.,** White, B., & Newell, B. R. (2022, in revision). Threshold uncertainty, early-warning signals, and the prevention of dangerous climate change.
 
 **Hurlstone, M. J.,** Thuijs, S., Rossen, I., & Ecker, U. (2022, in revision). [Crafting normative messages to promote childhood vaccine advocacy.](HTRE.18.Submitted.pdf) [[Supplementary Material](HTRE.18.Supp.pdf)]
 
@@ -50,6 +50,8 @@ Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vacho
 ## Peer Reviewed Manuscripts - published
 
 **Hurlstone, M. J.** (2023, in press). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+
+Tay, L. Q., Lewandowsky, S., **Hurlstone, M. J.,** Kurz, T., & Ecker, U. K. H. (2023). [A focus shift in the evaluation of misinformation interventions.](tay.2023.hksmrpp.pdf) *Harvard Kennedy School Misinformation Review*.
 
 Andreotta, M., Boschetti, F., Farrell, S., Paris, C., Walker, I., & **Hurlstone, M. J.** (2022). [Evidence for three distinct climate change audience segments with varying belief updating tendencies: Implications for climate change communication.](ABFPWH.22.CC.pdf) *Climatic Change, 174(32),* 1-29.
 
