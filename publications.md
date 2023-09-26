@@ -49,7 +49,7 @@ Marsh, J. E., Marois, A., **Hurlstone, M. J.,** Ball, L. J., Moore, S. B., Vacho
 
 ## Peer Reviewed Manuscripts - published
 
-**Hurlstone, M. J.** (2023, in press). [Serial recall.](H.21.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
+**Hurlstone, M. J.** (2023, in press). [Serial recall.](H.23.OHHM.pdf) Invited book chapter contribution to Kahana, M., and Wagner, A. *The Oxford Handbook on Human Memory* (Oxford University Press).
 
 Tay, L. Q., Lewandowsky, S., **Hurlstone, M. H.,** Kurz, T., & Ecker, U. K. H. (2023). [A focus shift in the evaluation of misinformation interventions.](tay.2023.hksmrpp.pdf) *Harvard Kennedy School Misinformation Review*.
 
